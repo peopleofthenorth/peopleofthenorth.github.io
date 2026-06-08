@@ -33,7 +33,7 @@ header_image: /assets/images/header1.png
 <p>Both Gessen’s book and Kakizaki Hakyō’s portraits depict these important figures in a mixed artistic style that is very visually striking, with Hakyo’s portraits appearing to be influenced by a combination of traditional Chinese styles of decorative realism and Western artistic styles of expression that incorporate significant shading into their figures.<span class="footnote-ref"><sup>3</sup><span class="footnote-popover">Shiraishi, 94, 99.</span></span> Though Hakyō’s portraits borrowed poses and compositional elements from portraits of Chinese sages, he also reproduced visual tropes used by the Japanese to depict the Ainu as foreign "others." The Ainu chieftains are depicted with remarkable detail but reproduce some of the standard exotic stereotypes of the time, such as thick, large noses and ears, long bushy beards, unibrows, and heavily emphasized body hair.<span class="footnote-ref"><sup>4</sup><span class="footnote-popover">Shiraishi, 100.</span></span> Given the accessibility of printed works at the time, Gessen’s manuscript was likely available to Kakizaki Hakyō.</p>
 <p>In the example below, we have prepared several overlay sliders that show comparisons between Gessen’s manuscript and the Hakyō portraits. In addition to being able to see Gessen’s flare for dramatic poses and  facial structures, one can see Hakyō’s style of using bright colors, shading, and also his detailed attention to Ainu features, patterned clothing, and ornate jewelry. More importantly, you can see how similar many of the poses appear. As you move the sliders side to side, pay close attention to the placement of feet, hands, and arms. Gessen’s portraits of the Daoist immortals  are on the left and Kaikizaki Hakyō’s Ainu figures are on the right.</p>
 <br>
-<div class="comparison-row" markdown="0">
+<div class="comparison-row">
 
   <figure class="comparison-figure">
     <div class="comparison-frame" id="frame-1">
@@ -87,7 +87,7 @@ header_image: /assets/images/header1.png
 <p>In Figure 3 each of the men depicted are shown in extremely similar seated positions with their knees drawn to their chests and their hands resting in their laps. Both are seated on a mat, though the shapes differ. The angles of the legs and the curls of the toes are nearly an exact match, as are the fingers curled up between the legs. Both men are bearded, and the shape of the upper lip on Gessen’s figure is matched in Hakyō’s portrait, though it is represented as the shape of the chieftain’s moustache. Although the Ainu chieftain is shown with a unibrow, the overall shape of his hair mimics the curled shape of the eyebrows into the hairline for Gessen’s figure. Both men are gazing to the same side
 For Figure 4, Hakyō used a similar standing position as Gessen’s original, though he reversed the side to which the body is curved. Despite changing the directionality of the body, Hakyō kept the positions of the feet nearly identical, with the back foot twisted to the side and the front foot facing forward. Both figures are leaning to one side with their shoulders turned slightly.</p> 
 <br>
-<div class="comparison-row" markdown="0">
+<div class="comparison-row">
 
   <figure class="comparison-figure">
     <div class="comparison-frame" id="frame-1">
@@ -142,7 +142,7 @@ For Figure 4, Hakyō used a similar standing position as Gessen’s original, th
 
 <p>Figure 6 features two men, each seated in a short chair that is low to the ground. Both figures sit in a similar position, with an arm resting on one knee. Both are shown to have large bellies that are pushing a layer of their clothing aside from their chests and stomachs. Their beards are roughly the same length and shape and they gaze directly at the viewer.</p>
 <br>
-<div class="comparison-row" markdown="0">
+<div class="comparison-row">
 
   <figure class="comparison-figure">
     <div class="comparison-frame" id="frame-1">
@@ -197,7 +197,6 @@ For Figure 4, Hakyō used a similar standing position as Gessen’s original, th
 
 <p>Finally, in Figure 8, both figures are crouching in the same position, facing the left with one arm extended. Their feet are placed roughly at the same angles stretched with one behind and one placed forward with a raised knee. Both are leaning forward in a very exaggerated pose, though Hakyō’s position appears more exaggerated because of the deer carried on the man’s back. Gessen’s portrait shows the man holding a pipe to blow air heating up a figure, while the same compositional line for Hakyō is the deer’s leg.</p>
 
-<div markdown="0">
 <script>
 (function () {
   document.querySelectorAll('.comparison-frame').forEach(function (frame) {
@@ -243,7 +242,6 @@ For Figure 4, Hakyō used a similar standing position as Gessen’s original, th
   });
 }());
 </script>
-</div>
 <p></p>
 
 
