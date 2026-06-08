@@ -44,7 +44,7 @@ breadcrumb_urls:
   ainu-through-objects: "/ainu-through-objects/"
   objects1: "/ainu-as-objects/"
   objects2: "/ainu-through-objects/"
-
+ 
 # Build settings
 markdown: kramdown
 permalink: pretty
