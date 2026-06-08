@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+  <meta name="description" content="{{ page.description | default: site.description }}" />
+  <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300;1,400&family=Josefin+Sans:wght@300;400;600&display=swap" rel="stylesheet" />
+  <link rel="icon" type="image/png" href="/assets/images/favicon.ico">
+</head>
+
+<body>
+
+  {% include header.html %}
+  {% include nav.html %}
+
+  <main class="site-main">
+    {% include breadcrumb.html %}
+    {{ content }}
+  </main>
+
+  {% include footer.html %}
+
+<script>
+(function () {
+  document.querySelectorAll('.footnote-ref').forEach(function (ref) {
+    ref.querySelector('sup').addEventListener('click', function (e) {
+      var isActive = ref.classList.contains('active');
+
+      document.querySelectorAll('.footnote-ref').forEach(function (r) {
+        r.classList.remove('active', 'pin-left', 'pin-right');
+      });
+
+      if (!isActive) {
+        ref.classList.add('active');
+
+        // Check for overflow after making it visible
+        var popover = ref.querySelector('.footnote-popover');
+        var rect = popover.getBoundingClientRect();
+
+        if (rect.right > window.innerWidth) {
+          ref.classList.add('pin-right');
+        } else if (rect.left < 0) {
+          ref.classList.add('pin-left');
+        }
+      }
+
+      e.stopPropagation();
+    });
+  });
+}());
+</script>
+</body>
+</html>

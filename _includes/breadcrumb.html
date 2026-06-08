@@ -1,0 +1,21 @@
+{% assign crumbs = page.url | remove_first: '/' | split: '/' %}
+{% if crumbs.size > 1 %}
+  {% assign section = crumbs[0] %}
+  {% assign parent_label = site.breadcrumb_parents[section] %}
+  {% assign parent_url = site.breadcrumb_urls[section] %}
+  {% if parent_label %}
+  <nav class="breadcrumb">
+    <a href="/">Home</a>
+    <span class="breadcrumb-divider">›</span>
+    <a href="{{ parent_url }}">{{ parent_label }}</a>
+    <span class="breadcrumb-divider">›</span>
+    <span class="breadcrumb-current">{{ page.title }}</span>
+  </nav>
+  {% endif %}
+{% elsif crumbs.size == 1 and crumbs[0] != '' %}
+  <nav class="breadcrumb">
+    <a href="/">Home</a>
+    <span class="breadcrumb-divider">›</span>
+    <span class="breadcrumb-current">{{ page.title }}</span>
+  </nav>
+{% endif %}

@@ -1,0 +1,15 @@
+<header class="site-header">
+  <div class="header-image-wrap">
+    <img
+      src="{{ page.header_image | default: site.default_header_image | relative_url }}"
+      alt="{{ page.header_alt | default: site.title }}"
+      class="header-image"
+    />
+    <div class="header-overlay">
+      <div class="header-text">
+        <p class="header-subtitle">{{ site.header_subtitle | default: "" }}</p>
+        <h1 class="header-title">{{ site.title }}</h1>
+      </div>
+    </div>
+  </div>
+</header>

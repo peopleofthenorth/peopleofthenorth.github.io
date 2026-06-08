@@ -1,0 +1,53 @@
+title: "People of the North:<br>Ainu Collections at UCLA"
+description: "An exploration of Ainu history, culture, and representation"
+author: ""
+header_subtitle: ""
+footer_text: "Some text here most likely."
+default_header_image: /assets/images/header1.png
+baseurl: ""
+url: "https://peopleofthenorth.github.io"
+
+# Navigation (optional — used by nav.html include)
+navigation:
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /about/
+  - title: "Ainu History"
+    url: /ainu-history/
+  - title: "Mapping the North"
+    url: /mapping-the-north/
+  - title: "Ainu as Objects"
+    url: /ainu-as-objects/
+  - title: "Ainu through Objects"
+    url: /ainu-through-objects/
+
+# Breadcrumb settings
+breadcrumb_parents:
+  about: "About"
+  ainu-history: "Ainu History"
+  history: "Ainu History"
+  mapping-the-north: "Mapping the North"
+  maps: "Mapping the North"
+  ainu-as-objects: "Ainu as Objects"
+  ainu-through-objects: "Ainu through Objects"
+  objects1: "Ainu as Objects"
+  objects2: "Ainu through Objects"
+
+breadcrumb_urls:
+  about: "/about/"
+  ainu-history: "/ainu-history/"
+  history: "/ainu-history/"
+  mapping-the-north: "/mapping-the-north/"
+  maps: "/mapping-the-north/"
+  ainu-as-objects: "/ainu-as-objects/"
+  ainu-through-objects: "/ainu-through-objects/"
+  objects1: "/ainu-as-objects/"
+  objects2: "/ainu-through-objects/"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
