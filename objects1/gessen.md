@@ -196,52 +196,6 @@ For Figure 4, Hakyō used a similar standing position as Gessen’s original, th
 <p>Figure 7 is another example of Hakyō flipping the directionality of a pose. Both of the men shown are positioned with the feet in nearly identical positions, the back foot to the side and the front foot pointing more forward, and though both are leaning Hakyō has flipped the direction of the lean. They both feature short, unkempt beards, and the arms that are shown lowered are reaching across the body in a curve.</p>
 
 <p>Finally, in Figure 8, both figures are crouching in the same position, facing the left with one arm extended. Their feet are placed roughly at the same angles stretched with one behind and one placed forward with a raised knee. Both are leaning forward in a very exaggerated pose, though Hakyō’s position appears more exaggerated because of the deer carried on the man’s back. Gessen’s portrait shows the man holding a pipe to blow air heating up a figure, while the same compositional line for Hakyō is the deer’s leg.</p>
-
-<script>
-(function () {
-  document.querySelectorAll('.comparison-frame').forEach(function (frame) {
-    var dragging = false;
-
-    function setSplit(clientX) {
-      var rect = frame.getBoundingClientRect();
-      var pct = ((clientX - rect.left) / rect.width) * 100;
-      pct = Math.max(0, Math.min(100, pct));
-      frame.style.setProperty('--split', pct.toFixed(2));
-    }
-
-    frame.addEventListener('mousedown', function (e) {
-      dragging = true;
-      frame.classList.add('dragging');
-      setSplit(e.clientX);
-      e.preventDefault();
-    });
-    window.addEventListener('mousemove', function (e) {
-      if (!dragging) return;
-      setSplit(e.clientX);
-    });
-    window.addEventListener('mouseup', function () {
-      if (!dragging) return;
-      dragging = false;
-      frame.classList.remove('dragging');
-    });
-    frame.addEventListener('touchstart', function (e) {
-      dragging = true;
-      frame.classList.add('dragging');
-      setSplit(e.touches[0].clientX);
-    }, { passive: true });
-    window.addEventListener('touchmove', function (e) {
-      if (!dragging) return;
-      setSplit(e.touches[0].clientX);
-    }, { passive: true });
-    window.addEventListener('touchend', function () {
-      dragging = false;
-      frame.classList.remove('dragging');
-    });
-
-    frame.style.setProperty('--split', '50');
-  });
-}());
-</script>
 <p></p>
 
 

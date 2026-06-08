@@ -53,5 +53,51 @@
   });
 }());
 </script>
+
+<script>
+(function () {
+  document.querySelectorAll('.comparison-frame').forEach(function (frame) {
+    var dragging = false;
+
+    function setSplit(clientX) {
+      var rect = frame.getBoundingClientRect();
+      var pct = ((clientX - rect.left) / rect.width) * 100;
+      pct = Math.max(0, Math.min(100, pct));
+      frame.style.setProperty('--split', pct.toFixed(2));
+    }
+
+    frame.addEventListener('mousedown', function (e) {
+      dragging = true;
+      frame.classList.add('dragging');
+      setSplit(e.clientX);
+      e.preventDefault();
+    });
+    window.addEventListener('mousemove', function (e) {
+      if (!dragging) return;
+      setSplit(e.clientX);
+    });
+    window.addEventListener('mouseup', function () {
+      if (!dragging) return;
+      dragging = false;
+      frame.classList.remove('dragging');
+    });
+    frame.addEventListener('touchstart', function (e) {
+      dragging = true;
+      frame.classList.add('dragging');
+      setSplit(e.touches[0].clientX);
+    }, { passive: true });
+    window.addEventListener('touchmove', function (e) {
+      if (!dragging) return;
+      setSplit(e.touches[0].clientX);
+    }, { passive: true });
+    window.addEventListener('touchend', function () {
+      dragging = false;
+      frame.classList.remove('dragging');
+    });
+
+    frame.style.setProperty('--split', '50');
+  });
+}());
+</script>
 </body>
 </html>
