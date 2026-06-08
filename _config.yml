@@ -51,6 +51,3 @@ permalink: pretty
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-
-kramdown:
-  parse_block_html: true
