@@ -11,7 +11,7 @@ These pages introduce how the UCLA collections featured in this project came to 
 <div class="content-grid">
 
 <a class="content-card" href="/about/ucla-provenance/">
-  <img src="/assets/images/about-yrl.png" alt="ALT TEXT HERE" />
+  <img src="/assets/images/about-YRL.png" alt="ALT TEXT HERE" />
   <div class="content-card-body">
     <h3>UCLA & Provenance</h3>
     <p>How did UCLA acquire these collections, and from whom?</p>
