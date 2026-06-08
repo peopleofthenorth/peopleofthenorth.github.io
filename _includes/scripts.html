@@ -1,0 +1,75 @@
+<script>
+(function () {
+  document.querySelectorAll('.footnote-ref').forEach(function (ref) {
+    ref.querySelector('sup').addEventListener('click', function (e) {
+      var isActive = ref.classList.contains('active');
+
+      document.querySelectorAll('.footnote-ref').forEach(function (r) {
+        r.classList.remove('active', 'pin-left', 'pin-right');
+      });
+
+      if (!isActive) {
+        ref.classList.add('active');
+
+        // Check for overflow after making it visible
+        var popover = ref.querySelector('.footnote-popover');
+        var rect = popover.getBoundingClientRect();
+
+        if (rect.right > window.innerWidth) {
+          ref.classList.add('pin-right');
+        } else if (rect.left < 0) {
+          ref.classList.add('pin-left');
+        }
+      }
+
+      e.stopPropagation();
+    });
+  });
+}());
+</script>
+
+<script>
+(function () {
+  document.querySelectorAll('.comparison-frame').forEach(function (frame) {
+    var dragging = false;
+
+    function setSplit(clientX) {
+      var rect = frame.getBoundingClientRect();
+      var pct = ((clientX - rect.left) / rect.width) * 100;
+      pct = Math.max(0, Math.min(100, pct));
+      frame.style.setProperty('--split', pct.toFixed(2));
+    }
+
+    frame.addEventListener('mousedown', function (e) {
+      dragging = true;
+      frame.classList.add('dragging');
+      setSplit(e.clientX);
+      e.preventDefault();
+    });
+    window.addEventListener('mousemove', function (e) {
+      if (!dragging) return;
+      setSplit(e.clientX);
+    });
+    window.addEventListener('mouseup', function () {
+      if (!dragging) return;
+      dragging = false;
+      frame.classList.remove('dragging');
+    });
+    frame.addEventListener('touchstart', function (e) {
+      dragging = true;
+      frame.classList.add('dragging');
+      setSplit(e.touches[0].clientX);
+    }, { passive: true });
+    window.addEventListener('touchmove', function (e) {
+      if (!dragging) return;
+      setSplit(e.touches[0].clientX);
+    }, { passive: true });
+    window.addEventListener('touchend', function () {
+      dragging = false;
+      frame.classList.remove('dragging');
+    });
+
+    frame.style.setProperty('--split', '50');
+  });
+}());
+</script>
