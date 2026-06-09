@@ -46,15 +46,20 @@ header_image: /assets/images/header1.png
   <img src="/assets/images/ikupasuy-wellcome.png" alt="ADD ALT TEXT HERE" />
   <figcaption class="image-caption">Fig. 4. Provenance record for <em>ikupasuy</em> X65.11996 labeling it as a moustache lifter. Image courtesy of the Fowler Museum at UCLA.</figcaption>
 </figure>
+<figure class="article-image center w-60">
+  <img src="/assets/images/ikupasuy-label.png" alt="ADD ALT TEXT HERE" />
+  <figcaption class="image-caption">Fig. 5. The backside label of the <em>ikupasuy</em> donated by Wellcome (X65.11996) labeling it as a moustache lifter.</figcaption>
+</figure>
+
 </div>
 <div class="clearfix">
-<p>We are pleased to be able to correct this error through our research and make a positive contribution to the museum’s catalog records in collaboration with the Fowler staff.</p>
+<p>There is a label on the back of the <em>ikupasuy</em> donated by Wellcome (Fig. 5) with a hand-written note that reads "Ainu <u>moustache lifter</u>, used to raise the moustache when drinking from a bowl." We are pleased to be able to correct this error through our research and make a positive contribution to the museum’s catalog records in collaboration with the Fowler staff.</p>
 
 <p><em>Ikupasuy</em> are used during ceremonies to facilitate connections between and communication among Ainu men and <em>kamuy</em>, the deities of the Ainu people. <em>ikupasuy</em> are adorned with carvings that represent the owner so that the <em>kamuy</em> will recognize their prayers.<span class="footnote-ref"><sup>6</sup><span class="footnote-popover">Japan Tourism Agency.</span></span> The patterns or symbols carved into <em>ikupasuy</em> are therefore one of their most important features. It identifies the owner of the <em>ikupasuy</em>, so the kamuy can know from whom the prayer is being conveyed or who is making the offering, and is believed to have the power to reach the deities directly, bolstering anything that might be found lacking in the human prayer itself.<span class="footnote-ref"><sup>7</sup><span class="footnote-popover">Kōeki zaidan hōjin Ainu minzoku bunka zaidan 公益財団法人アイヌ民族文化財団 [The Foundation for Ainu Culture]. "Ikupasui 捧酒箸（イクパスイ）" in <em>Ainu seikatsu bunka zaigen manyuaru</em> アイヌ生活文化再現マニュアル (公益財団法人アイヌ民族文化財団, 2019). 7.</span></span></p>
 
 <figure class="article-image center w-50">
   <img src="/assets/images/ikupasuy-diagram.png" alt="ADD ALT TEXT HERE" />
-  <figcaption class="image-caption">Fig 5. Parts of <em>ikupasuy</em>. Maraini, “<em>Ikupasuy</em>: It’s Not a Mustache Lifter!”, 331.</figcaption>
+  <figcaption class="image-caption">Fig 6. Parts of <em>ikupasuy</em>. Maraini, “<em>Ikupasuy</em>: It’s Not a Mustache Lifter!”, 331.</figcaption>
 </figure>
 
 <p>Given the specificity of <em>ikupasuy</em> to the owner, the designs of <em>ikupasuy</em> vary from one carving to another. They include complex symbols that represent family crests (<em>itokpa</em>), animals, flowers, or abstract patterns depicting elements of Ainu life and customs. Some parts of the <em>ikupasuy</em> allowed more freedom for carving, but the designs of <em>itokpa</em> are often fixed because it represents the patrilineage of the <em>ikupasuy</em> owner. In addition, <em>ikupasuy</em> are typically a ritual item carved and used exclusively by men. The equivalent of <em>ikupasuy</em> for women would be their secret woven grass belts, which were handed down from mother to daughter.<span class="footnote-ref"><sup>8</sup><span class="footnote-popover">Maraini, “<em>Ikupasuy</em>,” 331; British Museum. "Ikupasuy; Ceremonial Equipment." Collection Online. Accessed June 1, 2026. <a href="https://www.britishmuseum.org/collection/object/A_As1910-1119-44" target="_blank">https://www.britishmuseum.org/collection/object/A_As1910-1119-44</a>; Japan Tourism Agency; University of Michigan Museum of Art. “Ikupasuy (Prayer Stick).” Collection Online. Accessed June 1, 2026. <a href="https://umma.umich.edu/objects/ikupasuy-prayer-stick-1991-1-81/" target="_blank">https://umma.umich.edu/objects/ikupasuy-prayer-stick-1991-1-81/</a></span></span></p>
