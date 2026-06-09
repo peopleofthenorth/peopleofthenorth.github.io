@@ -66,7 +66,7 @@ header_image: /assets/images/header1.png
 
 <p>Siddle, Richard. <em>Race, Resistance, and the Ainu of Japan</em>. Routledge, 1996.</p>
 
-<p>Siddle, Richard. "Ainu: Japan’s indigenous people.” In <em>Japan’s Minorities: The illusion of homogeneity</em>. Edited by Michael Weiner, 21–39. Routledge, 1997.<pp>
+<p>Siddle, Richard. "Ainu: Japan’s indigenous people.” In <em>Japan’s Minorities: The illusion of homogeneity</em>. Edited by Michael Weiner, 21–39. Routledge, 1997.</p>
 
 <p> Walker, Brett L. <em>The Conquest of Ainu Lands: Ecology and Culture in Japanese Expansion, 1590–1800</em>. University of California Press, 2001.</p>
 </div>
