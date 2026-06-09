@@ -17,7 +17,7 @@ header_image: /assets/images/header1.png
 <div class="clearfix">
 <figure class="article-image right w-25">
   <img src="/assets/images/okhotsk-bear.png" alt="ADD ALT TEXT HERE" />
-  <figcaption class="image-caption">Fig. 1. Okhotsk culture, <em>Fragment of bear sculpture</em>, c. 8-9th century, Tokoro River Estuary site, Pit-dwelling No.15. Tokoro Archaeological Museum / Tokoro Forest Park of Archaeological Sites.</figcaption>
+  <figcaption class="image-caption">Fig. 1. Okhotsk culture, <a href="https://online.bunka.go.jp/heritages/detail/592170" target="_blank"><em>Fragment of bear sculpture</em></a>, c. 8-9th century, Tokoro River Estuary site, Pit-dwelling No.15. Tokoro Archaeological Museum / Tokoro Forest Park of Archaeological Sites.</figcaption>
 </figure>
 <p>But were Emishi, in fact, Ainu? While this question long dominated scholarship on the peoples of northern Japan, present day scholarship has largely moved past this debate to consider more nuanced questions. The North was an area of significant intermingling between culturally distinct communities over thousands of years (including Jomon peoples migrating from Honshu), with communication, trade, and conflict taking place regularly in the Sea of Okhotsk region among today’s Hokkaido, the Kuril Islands, Sakhalin Island, and the Amur River Valley, largely independent of activities in Honshu.</p>
 
@@ -52,6 +52,21 @@ header_image: /assets/images/header1.png
 
 <p>These movements would continue to develop, evolve, and grow, at times limited by restrictive frameworks of Japanese governance that sought (and in many ways still seek) to preserve purported racial homogeneity among Japanese while exoticizing Ainu cultural traditions and systematically discriminating against communities.<span class="footnote-ref"><sup>16</sup><span class="footnote-popover">For extensive and detailed overviews of Ainu activism in the early twentieth century in English, see Richard Siddle’s <em>Race, Resistance, and the Ainu of Japan</em>, especially  “Ainu protest and resistance, 1869–1945” (113–146) and “Ainu liberation and welfare colonialism” (147–170) as well as Siddle’s “Ainu: Japan’s indigenous people” (21–39).</span></span> As our <a href="/history/commercialization/">page on commercialization of Ainu products</a> discusses, there have been numerous organizations over the decades that promoted Ainu culture within and outside of these problematic frameworks. It is worth noting that only in 2008 did the National Diet in Japan establish their “<a href="https://www.nichibenren.or.jp/document/civil_liberties/year/2022/2022_4.html" target="_blank">Resolution Calling to Ensure the Rights of the Ainu People</a>” and only in 2019 were Ainu <a href="https://laws.e-gov.go.jp/law/431AC0000000016/" target="_blank">recognized formally as an Indigenous people of Japan</a>. Though it is beyond the scope of this project to go into the details of the many modern-day advocates and artists within Ainu communities that have contributed to the last hundred years of change and growth for Ainu, we hope that this short overview has provided grounding for understanding the many museum objects related to these histories and a starting point for further exploration.</p>
 
+</div>
 
+<div class="clearfix">
+<br>
+<h2><b>References</b></h2>
 
+<p>Howell, David L. <em>Geographies of Identity in Nineteenth Century Japan</em>. University of California Press, 2005.</p>
+
+<p>Joliffe, Pia M. “Forced Labour in Imperial Japan’s First Colony: Hokkaidō.” <em>The Asia-Pacific Journal: Japan Focus</em> 18, Issue 20, No. 2 (2020): 1–15.</p>
+
+<p>Sasaki Toshikazu. “Ainu-e: A Historical Review.” In <em>Ainu: Spirit of a Northern People</em>. Edited by Fitzhugh William W. and Chisato O. Dubreuil, 79–85. Arctic Studies Center, National Museum of Natural History, 1999.</p>
+
+<p>Siddle, Richard. <em>Race, Resistance, and the Ainu of Japan</em>. Routledge, 1996.</p>
+
+<p>Siddle, Richard. "Ainu: Japan’s indigenous people.” In <em>Japan’s Minorities: The illusion of homogeneity</em>. Edited by Michael Weiner, 21–39. Routledge, 1997.<pp>
+
+<p> Walker, Brett L. <em>The Conquest of Ainu Lands: Ecology and Culture in Japanese Expansion, 1590–1800</em>. University of California Press, 2001.</p>
 </div>

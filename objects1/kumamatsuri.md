@@ -11,10 +11,10 @@ header_image: /assets/images/header1.png
 <div class="clearfix">
 <figure class="article-image right w-50">
   <img src="/assets/images/kumamatsuri-scroll-whole.png" alt="ADD ALT TEXT HERE" />
-  <figcaption class="image-caption">Fig. 1. Kodama Sadayoshi 小玉貞良, <em>Depictions of the Ezo Bear Festival and the Customs of the People</em> (<em>Ezo kumamatsuri narabini jinmin fūzoku zue</em> 蝦夷熊祭並人民風俗図絵), Kansei 寛政 10 [1798], handscroll on paper with color, 27 cm × 1330 cm. Charles E. Young Research Library; Richard C. Rudolph East Asian Library, UCLA. Selection 1.</figcaption>
+  <figcaption class="image-caption">Fig. 1. Kodama Sadayoshi 小玉貞良, <em>Depictions of the Ezo Bear Festival and the Customs of the People</em> (<em>Ezo kumamatsuri narabini jinmin fūzoku zue</em> 蝦夷熊祭並人民風俗図絵), Kansei 寛政 10 [1798], handscroll on paper with color, 27 cm × 1330 cm. Charles E. Young Research Library; Richard C. Rudolph East Asian Library, UCLA.</figcaption>
 </figure>
 
-<p>The <em>Depictions of the Ezo Bear Festival and the Customs of the People</em> (<em>Ezo kumamatsuri narabini jinmin fūzoku zue</em> 蝦夷熊祭並人民風俗図絵) is a handscroll painted in color on paper by <a href="https://ja.wikipedia.org/wiki/%E5%B0%8F%E7%8E%89%E8%B2%9E%E8%89%AF" target="_blank">Kodama Sadayoshi 小玉貞良 (n.d.)</a>. It measures 27 cm x 1330 cm. It depicts Ainu cultural practices, highlighting the Ainu <em>iyomante</em> “bear sending ceremony” in which a village sacrifices a captured bear that they have raised in captivity for anywhere from one to several years. Ainu believe that gods, or <em>kamuy</em>, exist in all things, and by “sending back” the bear, a <em>kamuy</em> on earth, they return it to the spirit realm after honoring it with gifts and worship.</p>
+<p>The <em>Depictions of the Ezo Bear Festival and the Customs of the People</em> (<em>Ezo kumamatsuri narabini jinmin fūzoku zue</em> 蝦夷熊祭並人民風俗図絵) is a handscroll painted in color on paper originally by <a href="https://ja.wikipedia.org/wiki/%E5%B0%8F%E7%8E%89%E8%B2%9E%E8%89%AF" target="_blank">Kodama Sadayoshi 小玉貞良 (n.d.)</a>. It measures 27 cm x 1330 cm. It depicts Ainu cultural practices, highlighting the Ainu <em>iyomante</em> “bear sending ceremony” in which a village sacrifices a captured bear that they have raised in captivity for anywhere from one to several years. Ainu believe that gods, or <em>kamuy</em>, exist in all things, and by “sending back” the bear, a <em>kamuy</em> on earth, they return it to the spirit realm after honoring it with gifts and worship.</p>
 
 <p>The scroll is constructed of multiple sheets of paper, some of which are text and others illustrations, that are joined together with an adhesive. The text segments may have been inserted into the scroll at a later date. Some pages with illustrations also feature additional text in the form of small explanatory cards or labels that seems to have been placed on the page after the original scroll was made. Larger images of each scroll segment shown to the right are available to view <a href="/objects1/kumamatsuri2/">here</a>.</p> 
 
@@ -87,3 +87,54 @@ header_image: /assets/images/header1.png
 </figure>
 </div>
 <br>
+<h2><b>Copies of the Scroll</b></h2>
+
+<p>Kodama’s representations of Ainu were repeatedly copied by other artists and ethnographers, resulting in a variety of versions of this scroll being held in collections around the world. The <em>Depictions of the Ezo Bear Festival and the Customs of the People</em> scroll thus exists in various copies and under various names. It is difficult to track precisely where and when the scroll in our collection came to be in the course of copying practices, though the best hint is its inscription listing 1798 as its date. Each copy results in slightly new iterations of the same material, whether changes to the images, the removal or addition of text, or even entirely different sections of content. During the course of our class studies of depictions of Ainu, we analyzed a digital version of the scroll online–identified as <em>Images of Ezo</em> (<em>Ezo-e</em> 蝦夷絵) held by the <a href="https://hakohaku-archives.c.fun.ac.jp/records/K-H13-0446" target="_blank">Hakodate City Museum Digital Archives</a>, not realizing that a copy existed in the UCLA library collections. The Hakodate version has an additional section at the start of the scroll illustrating various Ainu clothing and tools, and contains none of the narrative or explanatory text included in the UCLA scroll. Below, we provide one particular segment, the pulling of the bear on the way to the iyomante ceremony, as it appears in multiple digital collections. The images are presented in roughly chronological order insofar as dates are available.</p>
+<div class="clearfix">
+
+<figure class="article-image center w-100">
+<img src="/assets/images/scroll-compare-hakodate-city-museum2.png" alt="ADD ALT TEXT HERE" /><figcaption class="image-caption">Fig. 11. This version is dated to 1797 from text at the end of the scroll. <a href="https://hakohaku-archives.c.fun.ac.jp/records/K-H13-0445" target="_blank"><em>Images of Customs of Ezo</em></a> (<em>Ezo fūzoku-e</em> 蝦夷風俗絵) (detail), Kansei 寛政 9 [1797], handscroll on paper with color, 26.5 cm × 1338.5 cm. Hakodate City Museum Digital Archives (K-H12-0045).</figcaption></figure>
+
+<figure class="article-image center w-100">
+<img src="/assets/images/scroll-compare-hakodate-city-museum.png" alt="ADD ALT TEXT HERE" /><figcaption class="image-caption">Fig. 12. The museum believes this scroll may be a copy of the one above. <a href="https://hakohaku-archives.c.fun.ac.jp/records/K-H13-0446" target="_blank"><em>Images of Ezo</em></a> (<em>Ezo-e</em> 蝦夷絵) (detail), handscroll on paper with color, 28.6 cm × 1373 cm. Hakodate City Museum Digital Archives (K-H12-0045).</figcaption></figure>
+
+<figure class="article-image center w-100">
+<img src="/assets/images/scroll-compare-ucla.png" alt="ADD ALT TEXT HERE" /><figcaption class="image-caption">Fig. 13. Kodama Sadayoshi 小玉貞良, <em>Depictions of the Ezo Bear Festival and the Customs of the People</em> (<em>Ezo kumamatsuri narabini jinmin fūzoku zue</em> 蝦夷熊祭並人民風俗図絵) (detail), Kansei 寛政 10 [1798], handscroll on paper with color, 27 cm × 1330 cm. Charles E. Young Research Library; Richard C. Rudolph East Asian Library, UCLA.</figcaption></figure>
+
+<figure class="article-image center w-100">
+<img src="/assets/images/scroll-compare-hakodate-library.png" alt="ADD ALT TEXT HERE" /><figcaption class="image-caption">Fig. 14. This scroll indicates it was copied in Tenmei 3 (1783) and text was added to it in 1784. <a href="https://adeac.jp/hakodate-city/catalog/mp000150-200010" target="_blank"><em>Images of Local Customs of Ainu</em></a> (<em>Ezo no kuni fūzoku-e</em> 蝦夷国風図絵) (detail), 1783, handscroll on paper with color, 27 cm × 1783 cm. Hakodate Library (be001146).</figcaption></figure>
+
+<figure class="article-image center w-100">
+<img src="/assets/images/scroll-compare-hakodate-city-central-library.png" alt="ADD ALT TEXT HERE" /><figcaption class="image-caption">Fig. 15. <a href="https://archives.c.fun.ac.jp/scrollframes/be000803/0003" target="_blank"><em>Images of Local Customs of Ainu</em></a> (<em>Ezo no kuni fūzoku-e</em> 蝦夷国風図絵) (detail), handscroll on paper with color, 28 cm × 978 cm. Hakodate City Central Library (be000803-0003).</figcaption></figure>
+
+<figure class="article-image center w-100">
+<img src="/assets/images/scroll-compare-brooklyn.png" alt="ADD ALT TEXT HERE" /><figcaption class="image-caption">Fig. 16. <a href="https://www.brooklynmuseum.org/objects/6569" target="_blank"><em>Local Customs of Ainu</em></a> (detail), 19th century, handscroll on paper with color, 27 cm × 843.6 cm. Brooklyn Museum (12.688).</figcaption></figure>
+
+<figure class="article-image center w-100">
+<img src="/assets/images/scroll-compare-hakodate-city-museum3.png" alt="ADD ALT TEXT HERE" /><figcaption class="image-caption">Fig. 17. <a href="https://hakohaku-archives.c.fun.ac.jp/records/H10-0051-45-040" target="_blank"><em>Images of Local Customs of Ainu</em></a> (<em>Ezo no kuni fūzoku-e</em> 蝦夷国風図絵) (detail), handscroll on paper with color, 17.3 cm × 623.5 cm. Hakodate City Museum Digital Archives (H10-0051-45-040).</figcaption></figure>
+
+</div>
+
+<br>
+<div class="clearfix">
+<br>
+<h2><b>References</b></h2>
+
+<p>Batchelor, John. <em>Ainu Life and Lore: Echoes of a Departing Race</em>. Tokyo: Kyobunkwan, 1927.</p>
+
+<p>Izumi, Seiichi. <em>The World of the Aynus: An Ethnological Record</em>. Kajima Publishing, 1967.</p>
+
+<p>Kodama, Mari. “Clothing and Ornamentation.” In <em>Ainu: Spirit of a Northern People</em>. Edited by Fitzhugh William W. and Chisato O. Dubreuil, 313–326. Arctic Studies Center, National Museum of Natural History, 1999.</p>
+
+<p>Sasaki Shiro. “The Ainu in Northeast Asia.” In <em>Ishuretsuzo, the Image of Ezo: Tracing Persons, Things and the World</em>, 121–123. Hokkaido Museum, 2015.</p>
+
+<p>O. Dubreuil, Chisato. “Ainu-e: instructional resources for the study of Japan’s Other People.” <em>Education about Asia</em> 9, no. 1 (Spring 2004), 9–17.</p>
+
+<p>Howell, David L. <em>Geographies of Identity in Nineteenth Century Japan</em>. University of California Press, 2005.</p>
+
+<p>Joliffe, Pia M. “Forced Labour in Imperial Japan’s First Colony: Hokkaidō.” <em>The Asia-Pacific Journal: Japan Focus</em> 18, Issue 20, No. 2 (2020): 1–15.</p>
+
+<p>Sasaki Toshikazu. “Ainu-e: A Historical Review.” In <em>Ainu: Spirit of a Northern People</em>. Edited by Fitzhugh William W. and Chisato O. Dubreuil, 79–85. Arctic Studies Center, National Museum of Natural History, 1999.</p>
+
+<p> Walker, Brett L. <em>The Conquest of Ainu Lands: Ecology and Culture in Japanese Expansion, 1590–1800</em>. University of California Press, 2001.</p>
+</div>
