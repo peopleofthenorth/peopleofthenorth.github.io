@@ -34,7 +34,7 @@ header_alt: Ainu landscape
         <div class="card-image-overlay"></div>
       </div>
       <div class="card-body">
-        <h3 class="card-title">Curious Sites of Ezo</h3>
+        <h3 class="card-title">Curious Views of Ezo</h3>
         <span class="card-link">Explore</span>
       </div>
     </a>

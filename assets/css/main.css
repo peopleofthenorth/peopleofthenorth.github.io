@@ -189,7 +189,7 @@ ul { list-style: none; }
    INTRO TEXT SECTION
    ============================================================ */
 .intro-section {
-  max-width: 760px;
+  max-width: 90%;
   margin: 0 auto var(--section-gap);
   text-align: center;
 }

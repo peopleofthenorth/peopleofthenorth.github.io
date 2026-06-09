@@ -46,3 +46,4 @@ header_image: /assets/images/header1.png
 
 <p>The <a href="/objects1/gessen/"><em>Portraits and Verses of the Daoist Immortals</em></a> (<em>Ressen zusan</em> 列僊圖賛) manuscript is part of the Julian C. Wright Collection, which is a gift collection bequeathed to UCLA in 1978 by Julian C. Wright (1904–1978), Los Angeles-based collector and public school teacher. Wright collection at UCLA is primarily fine arts manuscripts and prints, with over 400 items related to Japan.<span class="footnote-ref"><sup>3</sup><span class="footnote-popover">"Rare Materials," Japanese Studies Research Guide. UCLA Library, University of California, Los Angeles, accessed June 7, 2026. <a href="https://guides.library.ucla.edu/japanese/rare" target="_blank">https://guides.library.ucla.edu/japanese/rare</a> </span></span></p>
 </div>
+
