@@ -15,7 +15,7 @@ These pages provide a brief overview of Ainu history from the premodern to moder
   <img src="/assets/images/history-ainu.png" alt="ALT TEXT HERE" />
   <div class="content-card-body">
     <h3>A Brief History of Ainu</h3>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+    <p>Background on Ainu history to help frame the viewing of this site.</p>
   </div>
 </a>
 
@@ -23,7 +23,7 @@ These pages provide a brief overview of Ainu history from the premodern to moder
   <img src="/assets/images/history-commercialization.png" alt="ALT TEXT HERE" />
   <div class="content-card-body">
     <h3>Commercialization of Ainu Products & Related Organizations</h3>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+    <p>An introduction to how Ainu-created materials have circulated beyond the north.</p>
   </div>
 </a>
 
