@@ -6,7 +6,7 @@ header_image: /assets/images/header1.png
 
 <h1>About</h1>
 <br>
-These pages introduce how the UCLA collections featured in this project came to the university, centralized information on locating them, and descriptions of other digital archives and collection resources related to Ainu for further research. We also offer acknowledgements and credits recognizing the individuals and institutions that helped support this project. See our team page to learn more about individual contributors.
+These pages introduce how the UCLA collections featured in this project came to the university, centralize information on locating them, and describe other digital archives and collection resources related to Ainu for further research. We also offer acknowledgements and credits recognizing the individuals and institutions that helped support this project. See our team page to learn more about individual contributors.
 
 <div class="content-grid">
 

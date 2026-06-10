@@ -11,7 +11,7 @@ Ainu communities maintain robust oral traditions, many of which were not recorde
 <div class="content-grid">
 
 <a class="content-card" href="/objects2/ikupasuy/">
-  <img src="/assets/images/objects-ikupasuy.png" alt="A closeup photograph of a Ainu ikupasuy carvings." />
+  <img src="/assets/images/objects-ikupasuy.png" alt="A closeup photograph of an Ainu ikupasuy carvings." />
   <div class="content-card-body">
     <h3>Ikupasuy</h3>
     <p></p>

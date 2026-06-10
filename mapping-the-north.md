@@ -72,7 +72,7 @@ UCLA holds a significant collection of early modern maps. This section of the si
 </a>
 
 <a class="content-card" href="/maps/hokkaido-kokugun/">
-  <img src="/assets/images/mapping-hokkaido-kokugun.png" alt="AA segment of a printed map showing Hokkaido in multicolors." />
+  <img src="/assets/images/mapping-hokkaido-kokugun.png" alt="A segment of a printed map showing Hokkaido in multicolors." />
   <div class="content-card-body">
     <h4>Detailed Provincial County Map of Hokkaidō</h4>
     <p>北海道国郡明細図</p>
@@ -80,7 +80,7 @@ UCLA holds a significant collection of early modern maps. This section of the si
 </a>
 
 <a class="content-card" href="/maps/bankoku/">
-  <img src="/assets/images/mapping-bankoku.png" alt="ALT TEXT HERE" />
+  <img src="/assets/images/mapping-bankoku.png" alt="A segment of a printed map showing the globe." />
   <div class="content-card-body">
     <h4>Map of the World, Translated</h4>
     <p>萬國譯圖</p>

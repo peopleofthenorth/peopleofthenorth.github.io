@@ -11,15 +11,24 @@
       if (!isActive) {
         ref.classList.add('active');
 
-        // Check for overflow after making it visible
-        var popover = ref.querySelector('.footnote-popover');
-        var rect = popover.getBoundingClientRect();
+        var sup = ref.querySelector('sup');
+        var supRect = sup.getBoundingClientRect();
         var viewWidth = document.documentElement.clientWidth;
-        
-        if (rect.right > window.innerWidth) {
+        var supCenter = supRect.left + (supRect.width / 2);
+
+        if (supCenter > viewWidth * 0.66) {
           ref.classList.add('pin-right');
-        } else if (rect.left < 0) {
+        } else if (supCenter < viewWidth * 0.33) {
           ref.classList.add('pin-left');
+        } else {
+          // Middle third — check if centered popover overflows
+          var popover = ref.querySelector('.footnote-popover');
+          var popRect = popover.getBoundingClientRect();
+          if (popRect.right > viewWidth) {
+            ref.classList.add('pin-right');
+          } else if (popRect.left < 0) {
+            ref.classList.add('pin-left');
+          }
         }
       }
 
