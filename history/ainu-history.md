@@ -15,7 +15,7 @@ header_image: /assets/images/header1.png
 </div>
 
 <div class="clearfix">
-<figure class="article-image right w-25">
+<figure class="article-image right w-33">
   <img src="/assets/images/okhotsk-bear.png" alt="ADD ALT TEXT HERE" />
   <figcaption class="image-caption">Fig. 1. Okhotsk culture, <a href="https://online.bunka.go.jp/heritages/detail/592170" target="_blank"><em>Fragment of bear sculpture</em></a>, c. 8-9th century, Tokoro River Estuary site, Pit-dwelling No.15. Tokoro Archaeological Museum / Tokoro Forest Park of Archaeological Sites.</figcaption>
 </figure>
@@ -43,7 +43,7 @@ header_image: /assets/images/header1.png
 <p>Meiji policies toward Ainu, often using euphemistic terms like “protection,” were aimed at both ensuring Ainu could be assimilated into the new modern state as Japanese citizens and eliminating elements of Ainu identity and society that did not adhere to new standards of “civilized” modern society. Agriculture was encouraged, Ainu language and customs were discouraged, and the exploitation of Ainu workers and women continued.<span class="footnote-ref"><sup>12</sup><span class="footnote-popover">Howell, <em>Geographies of Identity in Nineteenth Century Japan</em> (University of California Press, 2005), 172–175.</span></span> When Sakhalin was ceded to Russia in 1875 and the Kurils formally came under Japanese control, hundreds of Ainu were forced to relocate out of these areas, deeply impacting the welfare and cohesion of their communities.<span class="footnote-ref"><sup>13</sup><span class="footnote-popover">Howell, <em>Geographies</em>, 186–187.</span></span></p>
 </div>
 <div class="clearfix">
-<figure class="article-image left w-40">
+<figure class="article-image left w-50">
   <img src="/assets/images/karafuto-ainu.png" alt="ADD ALT TEXT HERE" />
   <figcaption class="image-caption">Fig. 3. A photograph of employees of the Larafuto Nichinichi Shinbun 樺太日日新聞社 and the Karafuto Government Office with local Ainu in Sakhalin, 1929. Wikimedia Commons.</figcaption>
 </figure>

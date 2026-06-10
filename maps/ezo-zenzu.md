@@ -19,9 +19,9 @@ header_image: /assets/images/header1.png
 </div>
 <div class="clearfix">
 
-<figure class="article-image right w-40">
+<figure class="article-image right w-50">
   <img src="/assets/images/maps-ezo-no-kuni-zenzu-karafuto.png" alt="ADD ALT TEXT HERE" />
-  <figcaption class="image-caption">Fig. 2. Sakhalin and Karafuto represented in<em>Complete Illustration of the Land of Ezo</em></figcaption>
+  <figcaption class="image-caption">Fig. 2. Sakhalin and Karafuto represented in <em>Complete Illustration of the Land of Ezo</em>.</figcaption>
 </figure>
 <p>Hayashi’s first map, <em>A Complete Illustration of General Routes Map of the Three Lands</em> (<em>Sangoku tsūran yoshi rotei zenzu</em> 三国通覧輿地路程全図), showed the three lands surrounding the Japanese archipelago (Ezo, the Ryukyus, and the Korean peninsula) along with various other nearby land masses. However, Hayashi Shihei was outspoken on his opinions about Tokugawa state policy, and his various publications earned him official censure and a ban on many of his works in the 1790s. Nevertheless, his works continued to be copied and circulated, including this map.<span class="footnote-ref"><sup>1</sup><span class="footnote-popover">Ronald P. Toby, <em>Engaging the Other: ‘Japan’ and Its Alter Egos, 1550–1850</em> (Boston: Brill, 2019), 55–63.</span></span> We can find many similar versions in collections around the work that appear to be amateur in nature, such as the copy at the University of British Columbia.</p>
 
