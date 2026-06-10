@@ -11,7 +11,7 @@ UCLA holds a significant collection of early modern maps. This section of the si
 <div class="content-grid">
 
 <a class="content-card" href="/maps/cartography/">
-  <img src="/assets/images/mapping-cartography.png" alt="ALT TEXT HERE" />
+  <img src="/assets/images/mapping-cartography.png" alt="A segment of a printed map showing part of Ezo." />
   <div class="content-card-body">
     <h4>Cartography & the North in Early Modern Japan</h4>
     <p>An introduction to cartographic practices.</p>
@@ -19,7 +19,7 @@ UCLA holds a significant collection of early modern maps. This section of the si
 </a>
 
 <a class="content-card" href="/maps/dai-nihon-setsujo/">
-  <img src="/assets/images/mapping-dai-nihon-setsujo.png" alt="ALT TEXT HERE" />
+  <img src="/assets/images/mapping-dai-nihon-setsujo.png" alt="A segment of a printed map showing Ezo as a warped shape." />
   <div class="content-card-body">
     <h4>Map of the Three Lands Surrounding Japan</h4>
     <p>大日本接壤三國之全圖</p>
@@ -27,7 +27,7 @@ UCLA holds a significant collection of early modern maps. This section of the si
 </a>
 
 <a class="content-card" href="/maps/hokkaido-shuhen/">
-  <img src="/assets/images/mapping-hokkaido-shuhen.png" alt="ALT TEXT HERE" />
+  <img src="/assets/images/mapping-hokkaido-shuhen.png" alt="A segment of a handpainted map showing part of Hokkaido in brown wash." />
   <div class="content-card-body">
     <h4>Hokkaidō and its Surroundings</h4>
     <p>北海道とその周辺</p>
@@ -39,7 +39,7 @@ UCLA holds a significant collection of early modern maps. This section of the si
 <div class="content-grid">
 
 <a class="content-card" href="/maps/ezo-zenzu/">
-  <img src="/assets/images/mapping-ezo-no-kuni-zenzu.png" alt="ALT TEXT HERE" />
+  <img src="/assets/images/mapping-ezo-no-kuni-zenzu.png" alt="A segment of a handpainted map showing land masses in yellow and gray." />
   <div class="content-card-body">
     <h4>Complete Illustration of the Land of Ezo</h4>
     <p>蝦夷国全図</p>
@@ -47,7 +47,7 @@ UCLA holds a significant collection of early modern maps. This section of the si
 </a>
 
 <a class="content-card" href="/maps/complete-ezo-border/">
-  <img src="/assets/images/mapping-complete-ezo-border.png" alt="ALT TEXT HERE" />
+  <img src="/assets/images/mapping-complete-ezo-border.png" alt="A segment of a printed map showing the tip of Sakhalin." />
   <div class="content-card-body">
     <h4>Complete Map of Ezo's Borders</h4>
     <p>蝦夷闔境輿地全圖</p>
@@ -55,7 +55,7 @@ UCLA holds a significant collection of early modern maps. This section of the si
 </a>
 
 <a class="content-card" href="/maps/complete-mutsu-dewa/">
-  <img src="/assets/images/mapping-mutsu-dewa.png" alt="ALT TEXT HERE" />
+  <img src="/assets/images/mapping-mutsu-dewa.png" alt="A segment of a printed map showing land topography in green and yellow with labels." />
   <div class="content-card-body">
     <h4>Complete Map of Counties in Mutsu and Dewa</h4>
     <p>陸奥出羽国郡行程全図</p>
@@ -64,7 +64,7 @@ UCLA holds a significant collection of early modern maps. This section of the si
 </div>
 <div class="content-grid">
 <a class="content-card" href="/maps/simplified-three/">
-  <img src="/assets/images/mapping-simplified-three.png" alt="ALT TEXT HERE" />
+  <img src="/assets/images/mapping-simplified-three.png" alt="A segment of a printed map showing an overhead view of a province with labels." />
   <div class="content-card-body">
     <h4>Simplified Map of Three Provinces: Mutsu, Dewa, Echigo (Including Sado Island)</h4>
     <p>奥羽越三国略図附佐渡</p>
@@ -72,7 +72,7 @@ UCLA holds a significant collection of early modern maps. This section of the si
 </a>
 
 <a class="content-card" href="/maps/hokkaido-kokugun/">
-  <img src="/assets/images/mapping-hokkaido-kokugun.png" alt="ALT TEXT HERE" />
+  <img src="/assets/images/mapping-hokkaido-kokugun.png" alt="AA segment of a printed map showing Hokkaido in multicolors." />
   <div class="content-card-body">
     <h4>Detailed Provincial County Map of Hokkaidō</h4>
     <p>北海道国郡明細図</p>

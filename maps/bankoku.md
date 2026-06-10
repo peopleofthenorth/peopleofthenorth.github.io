@@ -11,18 +11,18 @@ header_image: /assets/images/header1.png
 <div class="clearfix">
 <div class="comparison-row">
 <figure class="article-image center w-40">
-  <img src="/assets/images/maps-bankoku1.png" alt="ADD ALT TEXT HERE" />
+  <img src="/assets/images/maps-bankoku1.png" alt="A printed map of the world, showing Asia, Africa, and Oceania in bright blue, yellow, and pink colors." />
   <figcaption class="image-caption">Fig. 1. <em>Map of the World, Translated</em> (<em>Bankoku yakuzu</em> 萬國譯圖), color, printed on paper, 49 cm × 52 cm. Charles E. Young Library & Special Collections.</figcaption>
 </figure>
 <figure class="article-image center w-40">
-    <img src="/assets/images/maps-bankoku2.png" alt="ADD ALT TEXT HERE" />
+    <img src="/assets/images/maps-bankoku2.png" alt="A printed map of the world, showing North America, South America, and Europe in bright blue, yellow, and pink colors." />
   <figcaption class="image-caption">Fig. 2. <em>Map of the World, Translated</em> (<em>Bankoku yakuzu</em> 萬國譯圖), color, printed on paper, 49 cm × 52 cm. Charles E. Young Library & Special Collections.</figcaption>
 </figure>
 </div>
 <div class="clearfix">
 
 <figure class="article-image right w-40">
-    <img src="/assets/images/maps-bankoku3.png" alt="ADD ALT TEXT HERE" />
+    <img src="/assets/images/maps-bankoku3.png" alt="A closeup of a printed map picture of Japan, seen in dark pink." />
   <figcaption class="image-caption">Fig. 2. <em>Map of the World, Translated</em> (<em>Bankoku yakuzu</em> 萬國譯圖), color, printed on paper, 49 cm × 52 cm. Charles E. Young Library & Special Collections.</figcaption>
 </figure>
 <p>The <em>Map of the World</em>, Translated (<em>Bankoku yakuzu</em> 萬國譯圖), is a pair of maps (each measuring 49 cm × 52 cm) representing the world. It was published by Ogata Chōkichi 大方長吉 and edited by Tomioka (Maru? Madoka?) 富岡圓, who is listed as a “<em>shizoku</em> 士族 of Niigata Prefecture 新潟県士族,” the term <em>shizoku</em> referring to those formerly of the warrior class before the Meiji Restoration. The publisher has a notation by his name that says “commoner of the same prefecture 同県平民.” The maps, created in 1885, are both in color and printed on paper. The world is shown as a globe using Western-style navigational lines. Some limited geographic and noteworthy features, such as major mountain ranges at the Great Wall of China, are marked on the maps.</p>

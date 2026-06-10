@@ -10,7 +10,7 @@ header_image: /assets/images/header1.png
 <div class="clearfix">
 
 <figure class="article-image center w-75">
-  <img src="/assets/images/maps-oetsu1.png" alt="ADD ALT TEXT HERE" />
+  <img src="/assets/images/maps-oetsu1.png" alt="A light colored map of the provinces of Mutsu and Dewa with small mountains dotting the geographic features and many labels for towns and land and sea routes." />
   <figcaption class="image-caption">Fig. 1. Yasui Kenbishi 安井顕比士, <em>Simplified Map of Three Provinces: Mutsu, Dewa, Echigo (Including Sado Island)</em>
 (<em>Ouuetsu sangoku ryakuzu fusado</em> 奥羽越三国略図附佐渡), 1868, color, printed on paper, 97.16 cm × 71.76 cm. Charles E. Young Library & Special Collections.
 </figcaption>

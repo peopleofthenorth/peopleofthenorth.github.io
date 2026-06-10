@@ -10,7 +10,7 @@ header_image: /assets/images/header1.png
 <div class="clearfix">
 
 <figure class="article-image center w-75">
-  <img src="/assets/images/maps-hokkaido-sono-shuhen1.png" alt="ADD ALT TEXT HERE" />
+  <img src="/assets/images/maps-hokkaido-sono-shuhen1.png" alt="A handpainted map of the Hokkaido region done in light brown colors. There is text throughout labeling sites and also along the edges of the map with navigational notations." />
   <figcaption class="image-caption">Fig. 1. <em>Hokkaido and its Surroundings</em> (<em>Hokkaidō to sono shūhen</em> 北海道とその周辺), handpainted on paper, 104 cm × 101.5 cm. Charles E. Young Library & Special Collections.</figcaption>
 </figure>
 </div>
@@ -19,7 +19,7 @@ header_image: /assets/images/header1.png
 </div>
 <div class="clearfix">
 <figure class="article-image right w-33">
-  <img src="/assets/images/maps-hokkaido-sono-shuhen-compass.png" alt="ADD ALT TEXT HERE" />
+  <img src="/assets/images/maps-hokkaido-sono-shuhen-compass.png" alt="A compass painted in black and brown with the Chinese zodiac for its directions." />
   <figcaption class="image-caption">Fig. 2. Compass detail from <em>Hokkaido and its Surroundings</em>.</figcaption>
 </figure>
 <p>The map appears to be hand-drawn on paper rather than printed, as the hand writing is relatively natural with variations in how characters are rendered and some uneven lines. This suggests that it is likely not an official map commissioned by the government, which would be more likely to be printed and to have gone through an approval process. Based on the handwriting and style, the whole map seems to have been drawn by the same person. The map is drawn in black, brown, and red ink, with (a slightly faded) red used specifically to mark navigational routes. The size of the map is relatively large (104 cm × 101.5 cm), and can be folded when it is not being used, creating portability.</p>
@@ -28,7 +28,7 @@ header_image: /assets/images/header1.png
 </div>
 <div class="clearfix">
 <figure class="article-image left w-40">
-  <img src="/assets/images/maps-hokkaido-sono-shuhen-okushiri.png" alt="ADD ALT TEXT HERE" />
+  <img src="/assets/images/maps-hokkaido-sono-shuhen-okushiri.png" alt="A closeup of an island on the map painted in brown. The Japanese label has the characters written in reverse." />
   <figcaption class="image-caption">Fig. 2. Compass detail from <em>Hokkaido and its Surroundings</em>.</figcaption>
 </figure>
 <p>The map features the entirety of Hokkaido, the northernmost tip of Honshu (today’s Aomori Prefecture), Sakhalin, the Kuril Islands, and various smaller islands in all surrounding areas. The format in which names are given is somewhat inconsistent, with some, such as Okushiri ヲコシリ, to the west of Matsumae, labeled with characters in reverse read right to left (リシコヲ) (Fig. 2). In some cases, smaller islands have additional information appended, such as Shikotan シコタン among the southern Kuril Islands, which includes the label <em>Nemuro ryō</em> 子モロ領, or “Nemuro territory,” referring to the nearby peninsular region.<span class="footnote-ref"><sup>2</sup><span class="footnote-popover">子モロ is hentaigana for 根室, a placename still used today.</span></span></p>
@@ -43,11 +43,11 @@ header_image: /assets/images/header1.png
 <div class="clearfix">
 <div class="comparison-row">
 <figure class="article-image center w-40">
-  <img src="/assets/images/maps-shihei-karafuto.png" alt="ADD ALT TEXT HERE" />
+  <img src="/assets/images/maps-shihei-karafuto.png" alt="A closeup of Sakhalin on a hand painted map, with the island divided into two parts and in yellow. One part is an island and the other is attached to the mainland." />
   <figcaption class="image-caption">Fig. 4. Copy of Hayashi Shihei, <em>Complete Illustration of the Land of Ezo</em> (<em>Ezo no kuni zenzu</em> 蝦夷国全図), n.d. (after 1786), color on paper, 96 cm × 52.5 cm (folded). Charles E. Young Research Library Special Collections.</figcaption>
 </figure>
 <figure class="article-image center w-40">
-    <img src="/assets/images/maps-hokkaido-sono-shuhen-sakhalin.png" alt="ADD ALT TEXT HERE" />
+    <img src="/assets/images/maps-hokkaido-sono-shuhen-sakhalin.png" alt="A closeup of Sakhalin island, depicted in black lines and brown wash." />
   <figcaption class="image-caption">Fig. 5. Sakhalin as it appears in <em>Hokkaido and its Surroundings</em>.</figcaption>
 </figure>
 </div>

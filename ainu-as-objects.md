@@ -11,7 +11,7 @@ For many centuries Ainu were depicted in ways that drew on discriminatory stereo
 
 <div class="content-grid">
 <a class="content-card" href="/objects1/gessen/">
-  <img src="/assets/images/ainu-as-gessen.png" alt="ALT TEXT HERE" />
+  <img src="/assets/images/ainu-as-gessen.png" alt="A printed line drawing of an old man with a lined face." />
   <div class="content-card-body">
     <h4>Portraits and Verses of the Daoist Immortals</h4>
     <p>列僊圖賛</p>
@@ -19,7 +19,7 @@ For many centuries Ainu were depicted in ways that drew on discriminatory stereo
 </a>
 
 <a class="content-card" href="/objects1/ezogashima/">
-  <img src="/assets/images/ainu-as-ezogashima.png" alt="ALT TEXT HERE" />
+  <img src="/assets/images/ainu-as-ezogashima.png" alt="A printed picture of a bear looking bashful." />
   <div class="content-card-body">
     <h4>Curious Views of Ezo</h4>
     <p>蝦夷島奇観</p>
@@ -30,7 +30,7 @@ For many centuries Ainu were depicted in ways that drew on discriminatory stereo
 
 <div class="content-grid">
 <a class="content-card" href="/objects1/kumamatsuri/">
-  <img src="/assets/images/ainu-as-kumamatsuri.png" alt="ALT TEXT HERE" />
+  <img src="/assets/images/ainu-as-kumamatsuri.png" alt="A handpainted picture of an Ainu woman in water." />
   <div class="content-card-body">
     <h4>Depictions of the Ezo Bear Festival and the Customs of the People</h4>
     <p>蝦夷熊祭並人民風俗図絵</p>
@@ -38,7 +38,7 @@ For many centuries Ainu were depicted in ways that drew on discriminatory stereo
 </a>
 
 <a class="content-card" href="/objects1/meiji/">
-  <img src="/assets/images/ainu-as-meiji.png" alt="ALT TEXT HERE" />
+  <img src="/assets/images/ainu-as-meiji.png" alt="An illustration in sepia tones of a Japanese man on the left and an Ainu man on the right." />
   <div class="content-card-body">
     <h4>A Complete Illustration of the History of Soldiers' Customs in the Japanese Empire & A Complete Illustration of the History of Commoners' Customs in the Japanese Empire</h4>
     <p>皇朝武人風俗沿革全図と皇朝庶人風俗沿革全図</p>

@@ -11,7 +11,7 @@ header_image: /assets/images/header1.png
 <div class="clearfix">
 
 <figure class="article-image center w-75">
-  <img src="/assets/images/maps-dai-nihon.png" alt="ADD ALT TEXT HERE" />
+  <img src="/assets/images/maps-dai-nihon.png" alt="An early modern woodblock printed map of Japan and surrounding areas, including insets of the Korean peninsula and Ryukyu. Hokkaido is represented in the north as Ezo no kuni in gray and has a warped shape that does not resemble modern geography. There are copious labels of locations and routes throughout the map and a large text box in the top middle providing information on each area." />
   <figcaption class="image-caption">Fig. 1. <em>Map of the Three Lands Surrounding Japan</em> (<em>Dai-Nihon setsujō sangoku no zenzu</em> 大日本接壤三國之全圖), color, printed on paper, 68.58 cm × 45.72 cm (unfolded). UCLA Special Collections.</figcaption>
 </figure>
 
@@ -26,7 +26,7 @@ header_image: /assets/images/header1.png
 <div class="clearfix">
 
 <figure class="article-image left w-33">
-  <img src="/assets/images/maps-dai-nihon-compass.png" alt="ADD ALT TEXT HERE" />
+  <img src="/assets/images/maps-dai-nihon-compass.png" alt="A closeup of a compass picture, showing both cardinal directions and Chinese zodiac labels." />
   <figcaption class="image-caption">Fig. 2. Detail of the compass from <em>Map of the Three Lands Surrounding Japan</em></figcaption>
 </figure>
 <p>The compass featured on the map reflects the skewed directional position. The compass also uses a hyrid direcitonal system. As noted in our team's page on the <a href="/maps/hokkaido-shuhen/"><em>Hokkaido and its Surroundings</em> (<em>Hokkaidō to sono shūhen</em> 北海道とその周辺)</a> map, earlier Japanese-style compasses were not based on the four cardinal directions, but on the Chinese zodiac system, which was used for land and marine navigation during the Edo and Meiji periods. Here we find that both systems have been overlaid, with the zodiac indicators on the inside of the compass in red and the cardinal directions on the outside of the circle.</p>
@@ -35,7 +35,7 @@ header_image: /assets/images/header1.png
 <div class="clearfix">
 
 <figure class="article-image right w-40">
-  <img src="/assets/images/maps-dai-nihon-ezo.png" alt="ADD ALT TEXT HERE" />
+  <img src="/assets/images/maps-dai-nihon-ezo.png" alt="A closeup from an Edo period map showing Hokkaido as a greyish blob with uneven borders." />
   <figcaption class="image-caption">Fig. 3. Detail of Ezo and Matsumae from <em>Map of the Three Lands Surrounding Japan</em></figcaption>
 </figure>
 <p>The representation of Ezo on the map is also visually different from Chōsen and Ryūkyū, filled in almost entirely with a dark grey color with the exception of the Matsumae Domain (Fig. 3). We can see the ambiguity of the Ezo region for Japanese, which had not fully incorporated the north, and for whom Matsumae (a stark contrast in yellow) is distinct from the rest of the main island. Note also that the cartographer was not certain of the actual shape of Hokkaido, an issue we discuss <a href="/maps/hokkaido-shuhen/">here</a>.</p>
@@ -46,7 +46,7 @@ header_image: /assets/images/header1.png
 </div>
 <div class="clearfix">
 <figure class="article-image center w-75">
-  <img src="/assets/images/maps-dai-nihon-text.png" alt="ADD ALT TEXT HERE" />
+  <img src="/assets/images/maps-dai-nihon-text.png" alt="A printed text box of early modern Japanese text." />
   <figcaption class="image-caption">Fig. 4. Cartouche featured in <em>Map of the Three Lands Surrounding Japan</em></figcaption>
 </figure>
 </div>

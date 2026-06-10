@@ -11,7 +11,7 @@ Ainu communities maintain robust oral traditions, many of which were not recorde
 <div class="content-grid">
 
 <a class="content-card" href="/objects2/ikupasuy/">
-  <img src="/assets/images/objects-ikupasuy.png" alt="ALT TEXT HERE" />
+  <img src="/assets/images/objects-ikupasuy.png" alt="A closeup photograph of a Ainu ikupasuy carvings." />
   <div class="content-card-body">
     <h3>Ikupasuy</h3>
     <p></p>
@@ -19,7 +19,7 @@ Ainu communities maintain robust oral traditions, many of which were not recorde
 </a>
 
 <a class="content-card" href="/objects2/hunting/">
-  <img src="/assets/images/objects-hunting.png" alt="ALT TEXT HERE" />
+  <img src="/assets/images/objects-hunting.png" alt="A closeup photograph of an Ainu wooden quiver." />
   <div class="content-card-body">
     <h3>Hunting Tools</h3>
     <p></p>
@@ -30,7 +30,7 @@ Ainu communities maintain robust oral traditions, many of which were not recorde
 <div class="content-grid">
 
 <a class="content-card" href="/objects2/weaving/">
-  <img src="/assets/images/objects-weaving.png" alt="ALT TEXT HERE" />
+  <img src="/assets/images/objects-weaving.png" alt="A closeup photograph of the weave of a saranip basket." />
   <div class="content-card-body">
     <h3>Weaving & Textiles</h3>
     <p></p>
@@ -38,7 +38,7 @@ Ainu communities maintain robust oral traditions, many of which were not recorde
 </a>
 
 <a class="content-card" href="/objects2/bracelets/">
-  <img src="/assets/images/objects-bracelet.png" alt="ALT TEXT HERE" />
+  <img src="/assets/images/objects-bracelet.png" alt="A closeup photograph of a Buddhist rosary." />
   <div class="content-card-body">
     <h3>Bracelets & Beadwork</h3>
     <p></p>
@@ -46,7 +46,7 @@ Ainu communities maintain robust oral traditions, many of which were not recorde
 </a>
 
 <a class="content-card" href="/objects2/mortar/">
-  <img src="/assets/images/objects-mortar.png" alt="ALT TEXT HERE" />
+  <img src="/assets/images/objects-mortar.png" alt="A closeup photograph of an Ainu model mortar pestle and hammer." />
   <div class="content-card-body">
     <h3>Mortal, Pestle, Hammer</h3>
     <p></p>

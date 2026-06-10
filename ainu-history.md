@@ -12,7 +12,7 @@ These pages provide a brief overview of Ainu history from the premodern to moder
 <div class="content-grid">
 
 <a class="content-card" href="/history/ainu-history/">
-  <img src="/assets/images/history-ainu.png" alt="ALT TEXT HERE" />
+  <img src="/assets/images/history-ainu.png" alt="A closeup of a geometric Ainu pattern in blue and red and white." />
   <div class="content-card-body">
     <h3>A Brief History of Ainu</h3>
     <p>Background on Ainu history to help frame the viewing of this site.</p>
@@ -20,7 +20,7 @@ These pages provide a brief overview of Ainu history from the premodern to moder
 </a>
 
 <a class="content-card" href="/history/commercialization/">
-  <img src="/assets/images/history-commercialization.png" alt="ALT TEXT HERE" />
+  <img src="/assets/images/history-commercialization.png" alt="A black and white photograph of an Ainu family in traditional clothing." />
   <div class="content-card-body">
     <h3>Commercialization of Ainu Products & Related Organizations</h3>
     <p>An introduction to how Ainu-created materials have circulated beyond the north.</p>

@@ -19,7 +19,7 @@ header_alt: Ainu landscape
 
     <a class="card" href="/maps/dai-nihon-setsujo/">
       <div class="card-image-wrap">
-        <img src="/assets/images/card-index1.png" alt="ALT TEXT HERE" />
+        <img src="/assets/images/card-index1.png" alt="A segment of a printed map showing provinces of Japan in colors." />
         <div class="card-image-overlay"></div>
       </div>
       <div class="card-body">
@@ -30,7 +30,7 @@ header_alt: Ainu landscape
 
     <a class="card" href="/objects1/ezogashima/">
       <div class="card-image-wrap">
-        <img src="/assets/images/card-index2.png" alt="Mapping the North" />
+        <img src="/assets/images/card-index2.png" alt="A painted image of two Ainu sitting before a Japanese lord on a veranda." />
         <div class="card-image-overlay"></div>
       </div>
       <div class="card-body">
@@ -41,7 +41,7 @@ header_alt: Ainu landscape
 
     <a class="card" href="/objects2/ikupasuy/">
       <div class="card-image-wrap">
-        <img src="/assets/images/card-index3.png" alt="Ainu as Objects" />
+        <img src="/assets/images/card-index3.png" alt="A segment of a photograph of carved ikupasuy" />
         <div class="card-image-overlay"></div>
       </div>
       <div class="card-body">
