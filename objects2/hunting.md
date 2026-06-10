@@ -110,7 +110,7 @@ header_image: /assets/images/header1.png
 
 <p>Akino, Shigeki. “Spirit-sending Ceremonies.” In <em>Ainu: Spirit of a Northern People</em>. Edited by William W. Fitzhugh and Chisato O. Dubreuil, 248–255. Arctic Studies Center, National Museum of Natural History, 1999.</p>
 
-<p>Hitchcock, Romyn. The Ainos of Yezo Japan.” Washington: Government Printing Office, 1892.</p>
+<p>Hitchcock, Romyn. <em>The Ainos of Yezo Japan.</em> Washington: Government Printing Office, 1892.</p>
 
 <p>Keira, Mitsunori, and Keira, Tomoko. “Village Work: Gender Roles and Seasonal Work."  In <em>Ainu: Spirit of a Northern People</em>. Edited by William W. Fitzhugh and Chisato O. Dubreuil, 234–239. Arctic Studies Center, National Museum of Natural History, 1999.</p>
 
