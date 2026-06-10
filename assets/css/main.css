@@ -742,9 +742,10 @@ p.p-indent {
 
 .content-card img {
   width: 100%;
-  height: 300px;
   aspect-ratio: 4 / 3;
   object-fit: cover;
+  object-position: center;
+  display: block;
 }
 
 .content-card-body {
