@@ -9,7 +9,7 @@ header_image: /assets/images/header1.png
 <div class="clearfix">
 
 <figure class="article-image right w-50">
-  <img src="/assets/images/bracelets1.png" alt="ADD ALT TEXT HERE" />
+  <img src="/assets/images/bracelets1.png" alt="Two beaded rosaries made of dark brown wood with two tassels on the top end and three on the bottom." />
   <figcaption class="image-caption">Fig. 1. <em>Bracelet</em>, c. 1917, wood and glass beads, 46 cm, 47 cm. Fowler Museum at UCLA (X65.12688, X65.12689). Photograph by Don Cole.</figcaption>
 </figure>
 <p>Held in the Fowler Museum collection, these bracelets, each 46-47 cm in length, consist of beaded cords connected with a fibrous twine (Fig. 1). Like all of Fowler's Ainu holdings transferred from the Anthropology Department in 1965, the date (given as c. 1917 in the collection notes) is uncertain. The majority of the beads are wooden, with four glass beads, two on each side of a large bead on the end. Each side of the cords are marked with a larger wooden bead roughly equidistant. Both endings on each cord are very similar but consist of different numbers of beaded strand endings. On the bottom end of each there are three beaded strands which are connected to the main cord, threaded through the large bead. Each of the three beaded strands has a spherical tuft at the end.</p>
@@ -19,7 +19,7 @@ header_image: /assets/images/header1.png
 </div>
 <div class="clearfix">
 <figure class="article-image center w-60">
-  <img src="/assets/images/bracelets2.png" alt="ADD ALT TEXT HERE" />
+  <img src="/assets/images/bracelets2.png" alt="Closeup of the three tassels on the end of the wooden bead rosaries." />
   <figcaption class="image-caption">Fig. 2. Closeup of the ends of each bracelet.</figcaption>
 </figure>
 </div>
@@ -30,11 +30,11 @@ header_image: /assets/images/header1.png
 <div class="clearfix">
 <div class="comparison-row">
 <figure class="article-image center w-33">
-  <img src="/assets/images/bracelets-brooklyn.png" alt="ADD ALT TEXT HERE" />
+  <img src="/assets/images/bracelets-brooklyn.png" alt="A traditional Ainu necklace made of various class beads in shades of blue and black." />
   <figcaption class="image-caption">Fig. 3. <em>Beads Strung on Cord</em>, late 19th–early 20th century, glass beads, 4 x 126 cm. Brooklyn Museum, Gift of Herman Stutzer (12.446).</figcaption>
 </figure>
 <figure class="article-image center w-60">
-    <img src="/assets/images/bracelets-blm.png" alt="ADD ALT TEXT HERE" />
+    <img src="/assets/images/bracelets-blm.png" alt="A traditional tamasay necklace with beads of black, white, and blue with two larger blue beads on either side of a giant silver medallion with circular patterns on it." />
   <figcaption class="image-caption">Fig. 4. <em>Necklace</em>, date unknown, glass beads, wood, and metal, 31.2 cm. British Museum Collection Online (As1910,1119.3). </figcaption>
 </figure>
 </div>
@@ -43,7 +43,7 @@ header_image: /assets/images/header1.png
 <p>In addition, though tamasay necklaces have ornate large and small glass beads strung on a fibrous twine, many also have a large (typically metal) medallion known as shitoki シトキ hanging in the center, and some are left open on the ends so it can be tied around the neck (Fig. 4). In contrast to these much more ornate traditional necklaces, the beaded cords from the Fowler archives are mostly wooden, with no medallion ornamentation (or a place for it).</p>
 
 <figure class="article-image right w-33">
-  <img src="/assets/images/bracelets-smith.png" alt="ADD ALT TEXT HERE" />
+  <img src="/assets/images/bracelets-smith.png" alt="Two wooden beaded roasaries." />
   <figcaption class="image-caption">Fig. 5. <em>Beads For Praying</em>, 1889, wooden beads and twine. Smithsonian National Museum of Natural History (E130683-0).</figcaption>
 </figure>
 <p>We therefore turned our attention to other possibilities, and found that the bracelet’s structure closely resembles a Buddhist rosary (<em>juzu</em> 数珠), a ritual object that was used throughout Japan for prayers, chanting, and meditation. Buddhist rosaries may contain slightly different numbers of beads, though many  108, signifying the 108 worldly desires that people sought to overcome. In addition to the main string of beads, Japanese rosaries often have larger beads, smaller beads, and tassel strand extensions. The tassel sections were used to distinguish sections of the rosary to help with counting, and the rosaries were worn around the wrist as they were counted, which helps explain why an item such as ours in the Fowler was listed as “bracelet.”<span class="footnote-ref"><sup>2</sup><span class="footnote-popover">Michaela Mross, “Prayer Beads in Japanese Sōtō Zen,” in <em>Zen and Material Culture</em>, eds. Pamela D. Winfield and Steven Heine (New York: Oxford University Press, 2017), 105–107.</span></span> A near identical rosary to the one in the Fowler can be found in the Smithsonian collections, dated to 1889 (Fig. 5). From these similarities in bead type, structure, and fiber features, we can conclude these bracelets are in fact Buddhist rosaries.</p>

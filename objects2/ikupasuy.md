@@ -13,7 +13,7 @@ header_image: /assets/images/header1.png
 <p>The three <em>ikupasuy</em> viewed by our team (Fig. 1) range from between 33.5 cm and 35.6 cm in length and 2.5 cm and 3.2 cm in width. We do not know the exact wood used to make these <em>ikupasuy</em>, but <em>ikupasuy</em> are typically made of Japanese yew or willow wood.<span class="footnote-ref"><sup>2</sup><span class="footnote-popover">Japan Tourism Agency. "Ikupasuy: Offering Sticks to Commune with Kamuy." JTA Sightseeing Database. 2024. <a href="https://www.mlit.go.jp/tagengo-db/en/R6-00299.html" target="_blank">https://www.mlit.go.jp/tagengo-db/en/R6-00299.html</a>.</span></span> The <em>ikupasuy</em> are long and narrow, with carved symbols on the surface and a slightly rounded end on one side and a pointed end on the other. Each stick varies in shades of a natural wooden brown color, though some parts of the wood appear darker on each stick, especially around the carved areas and lower end, where people would have held it for regular use.</p><br> 
 
 <figure class="article-image center w-75">
-  <img src="/assets/images/ikupasuy1.png" alt="ADD ALT TEXT HERE" />
+  <img src="/assets/images/ikupasuy1.png" alt="Three long strips of wood of different shades carved with intricate patterns and lined up horizontally on above one another." />
   <figcaption class="image-caption">Fig. 1. Three <em>ikupasuy</em> held at UCLA. From top to bottom: Ikupasuy (prayer stick), before 1936, carved wood, 33.5 × 2.5 cm (X65.12685); Ikupasuy (prayer stick), c. 1917, carved wood, 35.6 cm × 3.2 cm (X65.11996); Ikupasuy (prayer stick), c. 1917, carved wood, 34 cm × 3 cm. All held at the Fowler Museum at UCLA. Photograph by Don Cole.</figcaption>
 </figure>
 </div>
@@ -27,11 +27,11 @@ header_image: /assets/images/header1.png
 <div class="clearfix">
 <div style="float: right; margin: 0 0 1rem 1rem; width: 50%;">
 <figure class="article-image center w-75">
-  <img src="/assets/images/ikupasuy-batchelor.png" alt="ADD ALT TEXT HERE" />
+  <img src="/assets/images/ikupasuy-batchelor.png" alt="A black and white diagram of wooden carved sticks with the labels 'A Common Moustache Lifter' and 'A Ceremonial Moustache Lifter'" />
   <figcaption class="image-caption">Fig. 2. Diagram of <em>ikupasuy</em> by John Batchelor from <em>The Ainu of Japan</em>, 78.</figcaption>
 </figure>
 <figure class="article-image center w-75">
-  <img src="/assets/images/ikupasuy-landor.png" alt="ADD ALT TEXT HERE" />
+  <img src="/assets/images/ikupasuy-landor.png" alt="A black and white diagram of five different wooden carved sticks with a label at the bottom reading 'kike-ush-bashui, or moustache-lifters'" />
   <figcaption class="image-caption">Fig. 3. Diagram of <em>ikupasuy</em> by A. H. Savage Landor in <em>Alone With The Hairy Ainu</em>, 220.</figcaption>
 </figure>
 </div>
@@ -43,11 +43,11 @@ header_image: /assets/images/header1.png
 <p>In the Fowler collections, our team found that the provenance card included for one of the <em>ikupasuy</em> donated by Henry Wellcome reiterated this misnomer:</p>
 
 <figure class="article-image center w-60">
-  <img src="/assets/images/ikupasuy-wellcome.png" alt="ADD ALT TEXT HERE" />
+  <img src="/assets/images/ikupasuy-wellcome.png" alt="A provenance record of typed text that says 12.939 [1936] KWV X65-11996 MOUSTACHE LIFTER. Slat of wood, light colour, decorated with incised carving. Used for raising moustache when drinking from bowl. 35.8 x 3.2 cm. Ainu, Yezo, Japan. 16.815 [R]" />
   <figcaption class="image-caption">Fig. 4. Provenance record for <em>ikupasuy</em> X65.11996 labeling it as a moustache lifter. Image courtesy of the Fowler Museum at UCLA.</figcaption>
 </figure>
 <figure class="article-image center w-60">
-  <img src="/assets/images/ikupasuy-label.png" alt="ADD ALT TEXT HERE" />
+  <img src="/assets/images/ikupasuy-label.png" alt="Closeup of the back of a carved wooden stick with an aged label in cursive that says 'Ainu moustache lifter, used to raise the moustache when drinking from a bowl.'" />
   <figcaption class="image-caption">Fig. 5. The backside label of the <em>ikupasuy</em> donated by Wellcome (X65.11996) labeling it as a moustache lifter.</figcaption>
 </figure>
 
@@ -58,7 +58,7 @@ header_image: /assets/images/header1.png
 <p><em>Ikupasuy</em> are used during ceremonies to facilitate connections between and communication among Ainu men and <em>kamuy</em>, the deities of the Ainu people. <em>ikupasuy</em> are adorned with carvings that represent the owner so that the <em>kamuy</em> will recognize their prayers.<span class="footnote-ref"><sup>6</sup><span class="footnote-popover">Japan Tourism Agency.</span></span> The patterns or symbols carved into <em>ikupasuy</em> are therefore one of their most important features. It identifies the owner of the <em>ikupasuy</em>, so the kamuy can know from whom the prayer is being conveyed or who is making the offering, and is believed to have the power to reach the deities directly, bolstering anything that might be found lacking in the human prayer itself.<span class="footnote-ref"><sup>7</sup><span class="footnote-popover">Kōeki zaidan hōjin Ainu minzoku bunka zaidan 公益財団法人アイヌ民族文化財団 [The Foundation for Ainu Culture]. "Ikupasui 捧酒箸（イクパスイ）" in <em>Ainu seikatsu bunka zaigen manyuaru</em> アイヌ生活文化再現マニュアル (公益財団法人アイヌ民族文化財団, 2019). 7.</span></span></p>
 
 <figure class="article-image center w-50">
-  <img src="/assets/images/ikupasuy-diagram.png" alt="ADD ALT TEXT HERE" />
+  <img src="/assets/images/ikupasuy-diagram.png" alt="A black and white diagram of parts of ikupasuy." />
   <figcaption class="image-caption">Fig 6. Parts of <em>ikupasuy</em>. Maraini, “<em>Ikupasuy</em>: It’s Not a Mustache Lifter!”, 331.</figcaption>
 </figure>
 

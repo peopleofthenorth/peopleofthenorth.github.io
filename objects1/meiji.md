@@ -12,11 +12,11 @@ A Complete Illustration of the History of Commoners' Customs in the Japanese Emp
 
 <div class="clearfix">
 <div class="comparison-row">
-<figure class="article-image center w-33">
+<figure class="article-image center w-40">
   <img src="/assets/images/meiji-soldiers.png" alt="ADD ALT TEXT HERE" />
   <figcaption class="image-caption">Fig. 1. Tsukamoto Iwasaburō, <em>Kōchō bujin fūzoku enkaku zenzu</em>, 1899, lithograph, ink on paper, 148.50 cm × 53.50 cm. Fowler Museum at UCLA; Gift of Catherine E. Tierney & P. Lennox Tierney (X91.1925A).</figcaption>
 </figure>
-<figure class="article-image center w-33">
+<figure class="article-image center w-40">
     <img src="/assets/images/meiji-commoners.png" alt="ADD ALT TEXT HERE" />
   <figcaption class="image-caption">Fig. 2. Tsukamoto Iwasaburō, <em>Kōchō shonin fūzoku enkaku zenzu</em>, 1900, lithograph, ink on paper, 148.50 cm × 53.50 cm. Fowler Museum at UCLA; Gift of Catherine E. Tierney & P. Lennox Tierney (X91.1925A).</figcaption>
 </figure>
@@ -78,13 +78,13 @@ Date of Issue: August 25, 1900 (Meiji 33)</p>
 
 <div class="clearfix">
 <div class="comparison-row">
-<figure class="article-image center w-33">
+<figure class="article-image center w-40">
   <img src="/assets/images/meiji-ainu.png" alt="ADD ALT TEXT HERE" />
   <figcaption class="image-caption">Fig 5. Ainu figure. Tsukamoto Iwasaburō, <em>Kōchō shonin fūzoku enkaku zenzu</em> (detail).</figcaption>
 </figure>
-<figure class="article-image center w-33">
+<figure class="article-image center w-40">
     <img src="/assets/images/meiji-attush.png" alt="ADD ALT TEXT HERE" />
-  <figcaption class="image-caption">Fig 6. <a href="https://www.metmuseum.org/art/collection/search/51082" target="_blank"><em>Ainu costume</em></a>, 19th century, elm-bark fiber with appliqué of indigo-dyed tabby (atsushi), 135.9 cm (neck to hem); 130.8 cm) (sleeve to sleeve). The Met Museum (1984.103).</figcaption>
+  <figcaption class="image-caption">Fig 6. <a href="https://www.metmuseum.org/art/collection/search/51082" target="_blank"><em>Ainu costume</em></a>, 19th century, elm-bark fiber with appliqué of indigo-dyed tabby (atsushi), 135.9 cm (neck to hem); 130.8 cm (sleeve to sleeve). The Met Museum (1984.103).</figcaption>
 </figure>
 </div>
 <div class="clearfix">

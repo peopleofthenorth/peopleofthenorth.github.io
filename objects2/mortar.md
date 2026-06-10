@@ -9,7 +9,7 @@ header_image: /assets/images/header1.png
 <div class="clearfix">
 
 <figure class="article-image center w-75">
-  <img src="/assets/images/mortarpestle1.png" alt="ADD ALT TEXT HERE" />
+  <img src="/assets/images/mortarpestle1.png" alt="A photograph of three small wooden items, a mortar, pestle, and hammer." />
   <figcaption class="image-caption">Fig. 1. <em>Mortar</em>, c. 1917, carved wood, 11 cm × 9 cm. Fowler Museum at UCLA (X65.12681); <em>Pestle</em>, c. 1917, carved wood, 26.5 cm × 10.5 cm. Fowler Museum at UCLA (X65.12683); <em>Hammer</em>, c. 1917, carved wood, 26.5 cm × 6 cm. Fowler Museum at UCLA (X65.12686). Photograph by Don Cole.</figcaption>
 </figure>
 
@@ -20,7 +20,7 @@ header_image: /assets/images/header1.png
 <div class="clearfix">
 
 <figure class="article-image right w-25">
-  <img src="/assets/images/postcard-mortar.png" alt="ADD ALT TEXT HERE" />
+  <img src="/assets/images/postcard-mortar.png" alt="A photograph on a postcard in sepia tones of three Ainu women in front of a large wooden mortar, two of them holding pestles. They are in traditional Ainu dress and staring at the camera." />
   <figcaption class="image-caption">Fig. 2. <a href="https://ldr.lafayette.edu/concern/images/70795870d" target="_blank"><em>Ainu kneading mochi</em></a> ([<em>Ainu fūzoku</em>] <em>Ainu mochitsuki</em>（アイヌ風俗）アイヌの餅つき), c. 1918–1933, postcard printed in blue. Lafayette Digital Repository (10385/70795870d).</figcaption>
 </figure>
 
@@ -34,12 +34,12 @@ header_image: /assets/images/header1.png
 </div>
 <div class="clearfix">
 <div class="comparison-row">
-<figure class="article-image center w-33">
-  <img src="/assets/images/mortarpestle-batchelor.png" alt="ADD ALT TEXT HERE" />
+<figure class="article-image center w-40">
+  <img src="/assets/images/mortarpestle-batchelor.png" alt="A diagram in black and white of an Ainu pestle and mortar." />
   <figcaption class="image-caption">Fig. 3. Diagram of a pestle and mortar by John Batchelor from <em>The Ainu of Japan</em>, 78.</figcaption>
 </figure>
-<figure class="article-image center w-33">
-    <img src="/assets/images/mortarpestle-landor.png" alt="ADD ALT TEXT HERE" />
+<figure class="article-image center w-40">
+    <img src="/assets/images/mortarpestle-landor.png" alt="A diagram in black and white of an Ainu pestle and mortar with descriptive text in between each item." />
   <figcaption class="image-caption">Fig. 4. Diagram of a pestle and mortar by A.H. Landor from <em> Alone with the Hairy Ainu</em>, 215.</figcaption>
 </figure>
 </div>
@@ -49,12 +49,12 @@ header_image: /assets/images/header1.png
 </div>
 <div class="clearfix">
 <div class="comparison-row">
-<figure class="article-image center w-33">
-  <img src="/assets/images/mortar-bm.png" alt="ADD ALT TEXT HERE" />
+<figure class="article-image center w-40">
+  <img src="/assets/images/mortar-bm.png" alt="A small wooden mortar of a light brown color." />
   <figcaption class="image-caption">Fig. 5. <a href="https://www.britishmuseum.org/collection/object/A_As1944-03-125-a" target="_blank"><em>Model mortar</em></a>, carved wood, 7.5 cm × 11.1 cm. British Museum (As1944,03.125.a).</figcaption>
 </figure>
-<figure class="article-image center w-33">
-    <img src="/assets/images/mortar-brooklyn.png" alt="ADD ALT TEXT HERE" />
+<figure class="article-image center w-40">
+    <img src="/assets/images/mortar-brooklyn.png" alt="A small wooden mortar of a dark brown color." />
   <figcaption class="image-caption">Fig. 6. <a href="https://www.brooklynmuseum.org/objects/5940" target="_blank"><em>Toy mortar</em></a>, c. 1912, carved wood, 12.5 cm × 11.6 cm. Brooklyn Museum (12.158a).</figcaption>
 </figure>
 </div>

@@ -10,7 +10,7 @@ header_image: /assets/images/header1.png
 <div class="clearfix">
 
 <figure class="article-image right w-50">
-  <img src="/assets/images/saranip1.png" alt="ADD ALT TEXT HERE" />
+  <img src="/assets/images/saranip1.png" alt="A saranip basket with a round shape made of bark and fibe with tightly woven patterns." />
   <figcaption class="image-caption">Fig. 1. <em>Basket</em> (<em>saranip</em>), c. 1917, bark and fiber, 24 cm × 29 cm. Fowler Museum at UCLA (X65.12690). Photograph by Don Cole.</figcaption>
 </figure>
 <p>This is a traditional Ainu basket known as a <em>saranip</em> (サラニプ), woven from bark and fiber. Like many of the Ainu-related objects in the Fowler Museum that were transferred from the UCLA Anthropology Department in 1965, its date is tentatively given as 1917, though we cannot be sure of its exact time of creation. The information in the catalog originally listed the item simply as “basket” from Hokkaido prefecture. The basket measures 24 cm in length and 29 cm in width. The surface of the basket is slightly darkened, with uneven discoloration and staining across the surface, suggesting both its age and its past daily use. However, the weave remains intact with no significant tears and the shape is relatively well kept together.</p>
@@ -21,12 +21,12 @@ header_image: /assets/images/header1.png
 
 <p>Aside from the size and use, <em>saranip</em> can be further categorized by how they are made. Factors such as whether it is hand woven or done using a kind of loom or weaving stand known as an <em>iteseni</em> イテセニ, as well as the weaving techniques and the treatment of the rim of the <em>saranip</em> are helpful indicators of when and where these baskets were created. Scholars have used these details as well as the geographic and historical distribution of <em>saranip</em> collected in museums throughout Hokkaido to provide potential clues into the purpose of a particular <em>saranip</em> and the region where it was made.<span class="footnote-ref"><sup>4</sup><span class="footnote-popover">Ōsaka Taku 大坂拓, “Ainu no minzoku no hentai: chiikisa to nendaisa, oyobi ‘miyagemono,’ ‘dentō kōgeihin’ to shite no keishō アイヌ民族の編袋―地域差と年代差、及び「土産物」・「伝統工芸品」としての継承―,” <em>Bulletin of Ainu Culture Research Center, Hokkaido Museum</em> 北海道博物館アイヌ民族文化研究センター研究紀要 4 (2019), 25–26.</span></span> In the case of the basket in the Fowler museum, a study by researcher Ōsaka Taku offers some insights. Ōsaka classifies <em>saranip</em> mainly by their body structure, the design of the rim of the basket, and the weaving pattern (Fig. 2). These elements are impacted by the basket’s warp (vertical material extending from the base of the basket up to the rim) and the weft (the material that extends horizontally, interlocking with the warp).</p><br>
 <figure class="article-image center w-100">
-  <img src="/assets/images/saranip3.png" alt="ADD ALT TEXT HERE" />
+  <img src="/assets/images/saranip3.png" alt="A diagram of circular and square patterns showing the directionality of weave patterns." />
   <figcaption class="image-caption">Fig. 2. A diagram of Ōsaka's <em>saranip</em> classifications by type. From left to right: I (a, b, c), IIa, IIb, and III. Ōsaka, 31.</figcaption>
 </figure>
 <p>The Fowler Museum <em>saranip</em> closely resembles Ōsaka’s classifications as body structure and weave 1a and type 3 rim, meaning it has a “spiral weave with two weft elements combined with upright warm elements in a horizontal twist pattern,” and the rim braids together three to six warp elements into a single group. One thing worth noting is that there is a clear distinction between the type I body structure, which would have been done freehand, and the type II structure, which is often seen in <em>saranip</em> made with weaving stands.</p>
 <figure class="article-image center w-75">
-  <img src="/assets/images/saranip2.png" alt="ADD ALT TEXT HERE" />
+  <img src="/assets/images/saranip2.png" alt="A closeup of a saranip basket's knotted and woven rim." />
   <figcaption class="image-caption">Fig. 2. A close-up of the rim of the Fowler Museum <em>saranip</em>.</figcaption>
 </figure>
 <p><em>Saranip</em> were widely used by Ainu communities in the Hokkaido region from the late eighteenth to early nineteenth centuries (with the exception of the Sakahlin area) and there are regional differences in style, and techniques employed. By 1950, <em>saranip</em> stopped being produced in many locations, and the traditional techniques were often simplified, particularly through the use of weaving stands. Some locations, such as Nibutani and its surrounding areas, produced <em>saranip</em> in large quantities for commercial purposes in response to a surge in postwar tourism  and the increased popularity of Ainu handicrafts in Hokkaido.<span class="footnote-ref"><sup>6</sup><span class="footnote-popover">Ōsaka, 56–57; Saitō Reiko 齋藤玲子. “Ainu kōgei no 200nen: sono rekishi gaikan アイヌ工芸の200年：その歴史概観.” In <em>Sekai no naka no Ainu āto</em> 世界のなかのアイヌ・アート, Yamazaki Kōji 山崎幸治 and Itō Atsunori 伊藤敦規, eds., (Center for Ainu and Indigenous Studies, Hokkaido University 北海道大学アイヌ・先住民研究センター, 2017), 52–53.</span></span> By the 1980s, not only were there fewer <em>saranip</em> of the type in the Fowler museum being produced, but the simplified versions might also make use of cotton threads and fine fibers.<span class="footnote-ref"><sup>7</sup><span class="footnote-popover">Ōsaka, 56-57.</span></span> As we have seen, the commercialization of Ainu goods to some extent imposed changes to the method and amount of <em>saranip</em> produced, the material used, the function, and even the style of the <em>saranip</em>. Over time, less emphasis was put on the original role of <em>saranip</em> and more on mass production, signaling a transition from an everyday tool made with traditional techniques to a more widely-manufactured souvenir.</p>
@@ -35,7 +35,7 @@ header_image: /assets/images/header1.png
 <div class="clearfix">
 <h2><b>Basket (<em>yar-su</em>)</b></h2>
 <figure class="article-image center w-75">
-  <img src="/assets/images/basket1.png" alt="ADD ALT TEXT HERE" />
+  <img src="/assets/images/basket1.png" alt="A basket made of bark and bamboo." />
   <figcaption class="image-caption">Fig. 3. <em>Basket</em>, c. 1917. bark, bamboo, and fiber, 33.5 cm  × 10 cm × 22 cm. Fowler Museum at UCLA (X65.12691). Photograph by Don Cole.</figcaption>
 </figure>
 
@@ -46,12 +46,12 @@ header_image: /assets/images/header1.png
 <div class="clearfix">
 
 <div class="comparison-row">
-<figure class="article-image center w-33">
-  <img src="/assets/images/basket-penn.png" alt="ADD ALT TEXT HERE" />
+<figure class="article-image center w-40">
+  <img src="/assets/images/basket-penn.png" alt="A cooking vessel made of cherry bark." />
   <figcaption class="image-caption">Fig. 4. <a href="https://collections.penn.museum/collections/object/147233" target="_blank"><em>Cooking Vessel</em></a>, cherry bark, 5 cm × 18 cm × 15 cm. Penn Museum; Gift of the Academy of Natural Sciences of Philadelphia, 1997 (97-122-25).</figcaption>
 </figure>
-<figure class="article-image center w-33">
-    <img src="/assets/images/basket-tnm.png" alt="ADD ALT TEXT HERE" />
+<figure class="article-image center w-40">
+    <img src="/assets/images/basket-tnm.png" alt="A container made of folded birch bark." />
   <figcaption class="image-caption">Fig. 5. <a href="https://online.bunka.go.jp/heritages/detail/506365" target="_blank"><em>Birch bark container</em></a> (<em>kabakawasei yōki</em> 樺皮製容器), 20th century, 14 cm × 10 cm × 6 cm. Tokyo National Museum (K-38382). </figcaption>
 </figure>
 </div>
@@ -60,19 +60,19 @@ header_image: /assets/images/header1.png
 </div>
 <div class="clearfix">
 <div class="comparison-row">
-<figure class="article-image center w-33">
-  <img src="/assets/images/basket-hishaku.png" alt="ADD ALT TEXT HERE" />
+<figure class="article-image center w-40">
+  <img src="/assets/images/basket-hishaku.png" alt="A ladle made from folded bark." />
   <figcaption class="image-caption">Fig. 6. <a href="https://online.bunka.go.jp/heritages/detail/576139" target="_blank"><em>Ladle</em></a> (<em>hishaku</em> 柄杓), 19th century, 12 cm × 12 cm × 9 cm. Tokyo National Museum (K-25853).</figcaption>
 </figure>
-<figure class="article-image center w-33">
-    <img src="/assets/images/basket-hishaku2.png" alt="ADD ALT TEXT HERE" />
+<figure class="article-image center w-40">
+    <img src="/assets/images/basket-hishaku2.png" alt="A ladle made from folded bark with a long wooden handle." />
   <figcaption class="image-caption">Fig. 7. <a href="https://online.bunka.go.jp/heritages/detail/506185" target="_blank"><em>Ladle</em></a> (<em>hishaku</em> 柄杓), 19th century, 14 cm × 15 cm × 8.5 cm. Tokyo National Museum (K-25852).</figcaption>
 </figure>
 </div>
 
 <div class="clearfix">
 <figure class="article-image left w-25">
-  <img src="/assets/images/basket2.png" alt="ADD ALT TEXT HERE" />
+  <img src="/assets/images/basket2.png" alt="A basket possibly made of cedar with woven patterns." />
   <figcaption class="image-caption">Fig. 8. <em>Container</em>, c. 1917, cedar?, 16.5 cm × 19 cm × 17 cm. Fowler Museum at UCLA (X65.12690). Photograph by Don Cole.</figcaption>
 </figure>
 <p>Figures 6 and 7 above are examples of bark baskets that have been designed to hold water. On the left, we see an example of a water container that lacks a characteristic pole for dipping and carrying, which we find preserved in the example on the right. While Figure 6 does not have a distinct rim, Figure 7 has a similar rim to the Fowler's basket, with a strip of wood lining the edges, secured with strips wrapped around for additional strength and cohesion. From the examples above, it is easy to see that these items varied as needed for practical use.</p> 
@@ -86,7 +86,7 @@ header_image: /assets/images/header1.png
 <p>Among the Fowler’s woven objects dating to c. 1917 there is also an item labeled as an Ainu “storage mat” with no materials or additional information provided. The mat measures 56cm in length and 40cm in width, although due to the delicate nature of the fibers we were unable to view it unrolled.</p>
 
 <figure class="article-image center w-75">
-  <img src="/assets/images/mat1.png" alt="ADD ALT TEXT HERE" />
+  <img src="/assets/images/mat1.png" alt="An aged mat rolled up and tied closed with fabric." />
   <figcaption class="image-caption">Fig. 9. <em>Storage mat</em>, c. 1917, mat, textile, 56 cm x 40 cm. Fowler Museum at UCLA (X65.12921). Photographed by Don Cole.</figcaption>
 </figure>
 
@@ -95,7 +95,7 @@ header_image: /assets/images/header1.png
 <div class="clearfix">
 
 <figure class="article-image left w-33">
-  <img src="/assets/images/postcard-itaseni.png" alt="ADD ALT TEXT HERE" />
+  <img src="/assets/images/postcard-itaseni.png" alt="A postcard photograph of an older Ainu woman kneeling on a mat as she uses an itaseni loom to weave." />
   <figcaption class="image-caption">Fig. 10. <a href="https://ldr.lafayette.edu/concern/images/zg64tn28v" target="_blank"><em>Ainu Weaving</em></a>, c. 1935–1945, postcard. Lafayette Digital Repository (10385/zg64tn28v).</figcaption>
 </figure>
 <p>This mat was most likely collected as a traditional Ainu mat known as <em>goza</em> ゴザ. <em>Goza</em> are generally divided into two categories based on the presence or absence of patterns. <em>Goza</em> weaved without pattern were used daily as floor mat or curtain, while <em>goza</em> with patterns were used as decorative floor or wall mats during special events like the bear-sending ceremony (<em>iyomante</em> イヨマンテ), housewarming celebrations (<em>chisenomi</em> チセノミ), or even used as sails for traditional Ainu ships. <em>Goza</em> with patterns have specific terms for each type depending on the size, pattern and usage.<span class="footnote-ref"><sup>9</sup><span class="footnote-popover"><em>Tateru: Sosen no jigai no chisezukuri. Ainu seikatsu bunka saigen manyuaru</em> 建てるー祖先の時代のチセづくりー　アイヌ生活文化再現マニュアル (The Foundation for Ainu Culture 財団法人アイヌ文化振興・研究推進機構, 2000), 53; <em>Amu: Goza. Ainu seikatsu bunka saigen manyuaru</em> 編むーゴザー アイヌ生活文化再現マニュアル (The Foundation for Ainu Culture 財団法人アイヌ文化振興・研究推進機構, 2006), 9; 23.</span></span> View the <em>iyomante</em> detail of our page on the <a href="/objects1/ezogashima/"><em>Curious Views of Ezo</em></a> to see an example of <em>goza</em> hung on either side of the ceremony dais.</p>
@@ -108,12 +108,12 @@ header_image: /assets/images/header1.png
 </div>
 <div class="clearfix">
 <div class="comparison-row">
-<figure class="article-image center w-33">
-  <img src="/assets/images/mats-tnm1.png" alt="ADD ALT TEXT HERE" />
+<figure class="article-image center w-40">
+  <img src="/assets/images/mats-tnm1.png" alt="A geometric patterned mat made of cattails in shades of tan, brown, and black." />
   <figcaption class="image-caption">Fig. 11. <a href="https://online.bunka.go.jp/heritages/detail/472574" target="_blank"><em>Kina Mat</em></a> (<em>kina mushiro</em> キナ莚), 19th century, cattails, 152 cm x 69 cm. Tokyo National Museum (K-27993).</figcaption>
 </figure>
-<figure class="article-image center w-33">
-    <img src="/assets/images/mats-penn1.png" alt="ADD ALT TEXT HERE" />
+<figure class="article-image center w-40">
+    <img src="/assets/images/mats-penn1.png" alt="A geometric patterned mat made of cattails in shades of tan, brown, and black resembling diamond shapes." />
   <figcaption class="image-caption">Fig. 12. <a href="https://collections.penn.museum/collections/object/53425" target="_blank"><em>Mat</em></a>, elm fiber, 131 cm × 69 cm × 0.8 cm. Penn Museum (A421).</figcaption>
 </figure>
 </div>

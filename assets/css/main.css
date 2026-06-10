@@ -1045,6 +1045,18 @@ p.p-indent {
   align-items: center;
 }
 
+.comparison-row .article-image {
+  margin: 0.5 rem;
+}
+
+.comparison-row .article-image img {
+  width: 100%;
+  height: 400px;
+  object-fit: contain;
+  object-position: center bottom;
+  display: block;
+}
+
 /* ============================================================
    ICON STYLING
    ============================================================ */

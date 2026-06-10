@@ -9,7 +9,7 @@ header_image: /assets/images/header1.png
 <div class="clearfix">
 
 <figure class="article-image w-50">
-  <img src="/assets/images/quiver1.png" alt="ADD ALT TEXT HERE" />
+  <img src="/assets/images/quiver1.png" alt="An Ainu wooden quiver set with a brown bearskin pouch and a slightly flattened quiver cap." />
   <figcaption class="image-caption">Fig. 1. <em>Quiver with pouch</em>, c. 1917, wood, bark, fiber, 51.5 cm × 14.5 cm. Fowler Museum at UCLA (X65.12922A). Photograph by Don Cole.</figcaption>
 </figure>
 <p>Ainu culture and spirituality is closely connected with the natural world. They believe that gods (known as <em>kamuy</em> カムィ) come into the world as animals, plants, landscape, weather, objects–there are kamuy in all things.<span class="footnote-ref"><sup>1</sup><span class="footnote-popover">Hisakazu Fujimura, “Kamuy: Gods You can Argue with,” in <em>Ainu: Spirit of a Northern People</em>, Fitzhugh William W. and Chisato O. Dubreuil, eds. (Arctic Studies Center, National Museum of Natural History, 1999), 193.</span></span> Animals, particularly those that were hunted, were therefore revered as part of a cycle in which gods entered and departed from the human realm. While Ainu are well-known for holding the <em>iyomante</em> イヨマンテ “sending-back” ceremony for returning gods in the form of bears back to the spirit world, similar ceremonies might also be held for owls, foxes, and other animals. Similar, somewhat simplified rituals might also take place at hunting sites where an animal was killed or by the hunting hut to send <em>kamuy</em> back to their world.<span class="footnote-ref"><sup>2</sup><span class="footnote-popover">Shigeki Akino, “Spirit-Sending Ceremonies,” in <em>Ainu: Spirit of a Northern People</em>, Fitzhugh William W. and Chisato O. Dubreuil, eds. (Arctic Studies Center, National Museum of Natural History, 1999), 249–255.</span></span> Hunting was therefore not just a way to obtain sustenance or to trade with neighboring communities, but was a relationship between Ainu and their deities.</p>
@@ -20,7 +20,7 @@ header_image: /assets/images/header1.png
 </div>
 <div class="clearfix">
 <figure class="article-image center w-75">
-  <img src="/assets/images/hunting-hitchcock.png" alt="ADD ALT TEXT HERE" />
+  <img src="/assets/images/hunting-hitchcock.png" alt="A black and white diagram of Ainu bows and arrows next to an Ainu quiver." />
   <figcaption class="image-caption">Fig. 2. Diagram of a quiver and arrows (rotated 90 degrees) by Romyn Hitchchock, <em>The Ainos of Yezo Japan</em>, 468. </figcaption>
 </figure>
 </div>
@@ -32,11 +32,11 @@ header_image: /assets/images/header1.png
 <div class="clearfix">
 <div class="comparison-row">
 <figure class="article-image center w-50">
-  <img src="/assets/images/quiver2.png" alt="ADD ALT TEXT HERE" />
+  <img src="/assets/images/quiver2.png" alt="The back of a wooden Ainu quiver with a long carved piece attached to it that is covered in curved carved symbols." />
   <figcaption class="image-caption">Fig. 3. The <em>pushka-un-ni</em> of the quiver held by the Fowler Museum.</figcaption>
 </figure>
 <figure class="article-image center w-33">
-    <img src="/assets/images/quiver3.png" alt="ADD ALT TEXT HERE" />
+    <img src="/assets/images/quiver3.png" alt="A small pouch made of a brown bearskin and fur." />
   <figcaption class="image-caption">Fig. 4. The bearskin pouch at the Fowler Museum.</figcaption>
 </figure>
 </div>
@@ -48,11 +48,11 @@ header_image: /assets/images/header1.png
 <div class="clearfix">
 <div class="comparison-row">
 <figure class="article-image center w-50">
-  <img src="/assets/images/bow1.png" alt="ADD ALT TEXT HERE" />
+  <img src="/assets/images/bow1.png" alt="A small wooden bow with a loose string made of dark horse hair that has become unfurled." />
   <figcaption class="image-caption">Fig. 5. <em>Bow</em>, c. 1917, wood, horsehair, 42.5 cm.  Fowler Museum at UCLA (X65.12682). Photograph by Don Cole.</figcaption>
 </figure>
 <figure class="article-image center w-33">
-    <img src="/assets/images/bow2.png" alt="ADD ALT TEXT HERE" />
+    <img src="/assets/images/bow2.png" alt="A closeup of the end of a wooden bow with mess of knotted twine connected to slightly loose dark horsehair." />
   <figcaption class="image-caption">Fig. 6. End of the bow where the horse hair string came undone and was reattached with string. </figcaption>
 </figure>
 </div>
@@ -62,14 +62,14 @@ header_image: /assets/images/header1.png
 
 <div class="clearfix">
 <figure class="article-image center w-75">
-  <img src="/assets/images/bow-watanabe.png" alt="ADD ALT TEXT HERE" />
+  <img src="/assets/images/bow-watanabe.png" alt="A black and white diagram of different parts of a hand bow and a spring bow." />
   <figcaption class="image-caption">Fig. 7. Diagram of Ainu bowsby Hitoshi Watanabe (cropped), <em>The Ainu Ecosystem: Environment and Group Structure</em>, 33. </figcaption>
 </figure>
 </div>
 <div class="clearfix">
 <figure class="article-image right w-33">
-  <img src="/assets/images/bow-penn.png" alt="ADD ALT TEXT HERE" />
-  <figcaption class="image-caption">Fig. 8. <em>Bow</em>, grass twine and wood, 42.5 cm. Penn Museum (A479).</figcaption>
+  <img src="/assets/images/bow-penn.png" alt="A small wooden arrow with a grass twine string." />
+  <figcaption class="image-caption">Fig. 8. <a href="https://collections.penn.museum/collections/object/47126" target="_blank"><em>Bow</em></a>, grass twine and wood, 42.5 cm. Penn Museum (A479).</figcaption>
 </figure>
 <p>We were unable to find any mention of horse-hair being used as bowstring in our research, so it is unclear whether this was an assumption on the part of a past cataloger. From the current state of the bow in the collection it is not possible to know how fast or accurate this bow could have been. Since poison was usually added to the arrowheads to hunt large animals, so a bow only had to be strong enough to pierce the skin.<span class="footnote-ref"><sup>8</sup><span class="footnote-popover">Hitchcock, 469.</span></span> Another possibility we considered was that if it was not feasible for actual hunting, it could have been used either for the spirit sending ceremony to agitate the bear (in which case blunt-tipped arrows would have been used), or it could have been a toy for young boys to play with especially when factoring that it is half the size of a normal handbow.</p>
 
@@ -79,12 +79,12 @@ header_image: /assets/images/header1.png
 
 <div class="clearfix">
 <div class="comparison-row">
-<figure class="article-image center w-33">
-  <img src="/assets/images/arrows1.png" alt="ADD ALT TEXT HERE" />
+<figure class="article-image center w-40">
+  <img src="/assets/images/arrows1.png" alt="A set of five thin wooden arrows lined up next to each other vertically." />
   <figcaption class="image-caption">Fig. 9. The arrows held at the Fowler Museum, c. 1917, carved wood, (in order of object ID) 51.5 cm, 53 cm, 53.5 cm, 49 cm, 50 cm. Fowler Museum at UCLA (X65.12923A, X65.12923B, X65.12923C, X65.12923D, X65.12923E). Photograph by Don Cole.</figcaption>
 </figure>
 <figure class="article-image center w-40">
-    <img src="/assets/images/arrow-bm-bk.png" alt="ADD ALT TEXT HERE" />
+    <img src="/assets/images/arrow-bm-bk.png" alt="Two arrows next to each other vertically. On the left is a blunt-tipped arrow with dark patterns on the tip and blackish-blue feathers. On the right is a lighter wooden arrow with thinner feathers and a pointed tip." />
   <figcaption class="image-caption">Figs. 10 & 11. Fig. 10 (right) <a href="https://www.britishmuseum.org/collection/object/A_As-8107" target="_blank"><em>Arrow</em></a>, wood, string, features, bark, copper, poison, 44.2 cm × 1.5 cm. The British Museum (As.8107); (left) <a href="https://www.brooklynmuseum.org/objects/5999" target="_blank"><em>Blunt Arrows for Bear Festival</em></a>, wood and bamboo, 0.6 cm × 43.6 cm. Brooklyn Museum (12.212).</figcaption>
 </figure>
 </div>
@@ -96,10 +96,10 @@ header_image: /assets/images/header1.png
 
 <div class="clearfix">
 <figure class="article-image right w-33">
-  <img src="/assets/images/knifeholder1.png" alt="ADD ALT TEXT HERE" />
-  <figcaption class="image-caption">Fig. 11. <em>Knife Holder</em>, wood, nails, bark, fiber, c. 1917, 20.5 cm × 5 cm. Fowler Museum at UCLA (X65.12687).</figcaption>
+  <img src="/assets/images/knifeholder1.png" alt="A wooden knife holder of a rich brown color. it has a twisted piece of twine descending from one side." />
+  <figcaption class="image-caption">Fig. 12. <em>Knife Holder</em>, wood, nails, bark, fiber, c. 1917, 20.5 cm × 5 cm. Fowler Museum at UCLA (X65.12687).</figcaption>
 </figure>
-<p>Although we did not have the opportunity to do extended research on the knife holder (Fig. 11) held in the Fowler collections, it measures 20.5 cm × 5 cm and is made from wood, nails, bark, and fiber.</p>
+<p>Although we did not have the opportunity to do extended research on the knife holder (Fig. 12) held in the Fowler collections, it measures 20.5 cm × 5 cm and is made from wood, nails, bark, and fiber.</p>
 
 <p>Given the sacrality of carving to Ainu, more ornate knife holders with delicately incised designs on wood or even ivory can be found in many collections.<span class="footnote-ref"><sup>10</sup><span class="footnote-popover">Keira and Keria, 234.</span></span> The simple nature of the holder in the Fowler collection suggests this may have been a more practical hunting item, rather than a knife used for ritual carving.</p>
 </div>
