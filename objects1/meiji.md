@@ -13,11 +13,11 @@ A Complete Illustration of the History of Commoners' Customs in the Japanese Emp
 <div class="clearfix">
 <div class="comparison-row">
 <figure class="article-image center w-40">
-  <img src="/assets/images/meiji-soldiers.png" alt="ADD ALT TEXT HERE" />
+  <img src="/assets/images/meiji-soldiers.png" alt="A long chart in brown and red hues with text at the top in Japanese and a series of dozens of illustrations of people throughout the chart." />
   <figcaption class="image-caption">Fig. 1. Tsukamoto Iwasaburō, <em>Kōchō bujin fūzoku enkaku zenzu</em>, 1899, lithograph, ink on paper, 148.50 cm × 53.50 cm. Fowler Museum at UCLA; Gift of Catherine E. Tierney & P. Lennox Tierney (X91.1925A).</figcaption>
 </figure>
 <figure class="article-image center w-40">
-    <img src="/assets/images/meiji-commoners.png" alt="ADD ALT TEXT HERE" />
+    <img src="/assets/images/meiji-commoners.png" alt="A long chart in brown and red hues with text at the top in Japanese and a series of dozens of illustrations of people throughout the chart." />
   <figcaption class="image-caption">Fig. 2. Tsukamoto Iwasaburō, <em>Kōchō shonin fūzoku enkaku zenzu</em>, 1900, lithograph, ink on paper, 148.50 cm × 53.50 cm. Fowler Museum at UCLA; Gift of Catherine E. Tierney & P. Lennox Tierney (X91.1925A).</figcaption>
 </figure>
 </div>
@@ -43,7 +43,7 @@ Date of Issue: August 25, 1900 (Meiji 33)</p>
 </blockquote>
 
 <figure class="article-image left w-25">
-  <img src="/assets/images/Tsukamoto_Iwasaburo.png" alt="ADD ALT TEXT HERE" />
+  <img src="/assets/images/Tsukamoto_Iwasaburo.png" alt="A black and white portrait of a Japanese man with a receding hairline and a bushy mustache. He is wearing dark kimono." />
   <figcaption class="image-caption">Fig. 3. Portrait of Tsukamoto Iwasaburō. Tōkyō shoseki shōkumiai 東京書籍商組合, ed. <a href="https://dl.ndl.go.jp/en/pid/949275/1/67" target="_blank"><em>Tōkyō shoseki shōkumiaishiin gaireki</em> 東京書籍商組合史及組合員概歴</a> (Tōkyō shoseki shōkumiai, 1912), 67. NDL Digital Collections.</figcaption>
 </figure>
 <p>The use of wall charts for educational purposes was adopted and encouraged by the Meiji government in the late nineteenth and early twentieth century, as they were often used by Western nations in educational settings. During the period these charts were issued, wall chart printing was primarily done by private companies.<span class="footnote-ref"><sup>1</sup><span class="footnote-popover">Makino Yuri 牧野由理, “Tokyo Zōgakan no kakezu ni kansuru kenkyū 東京造画館の掛図に関する研究,” <em>Bijutsu kyōikugaki</em> 美術教育学 41 (2020): 312.</span>
@@ -52,7 +52,8 @@ Date of Issue: August 25, 1900 (Meiji 33)</p>
 <p>Both charts in the Fowler collection were created by Tsukamoto Iwasaburō 塚本岩三郎 (b. 1863–1923) (Fig. 3), an artist and entrepreneur who founded the printing firm where the prints were produced, Tokyo Zōgakan 東京造画館, in either 1890 or 1892. Prior to the establishment of his company, Tsukamoto had pursued education in Western painting and printing techniques both in Japan and the United States and been active in Japanese art societies dedicated to Western-style art.</p>
 
 <p>Tsukamoto’s artistry using lithographs was well-known and his educational wall charts for primary and secondary schools highly prized, said to have been used for the education of the future Taishō Emperor himself. Many of the charts (including those described here) list Tsukamoto explicitly as 画作印刷兼発行人, or “Artist, Printer, and Publisher.”<span class="footnote-ref"><sup>2</sup><span class="footnote-popover">Makino, 313–315.</span></span> The charts in the Fowler collection also state the precise location of the publishing company:</p>
-
+</div>
+<div class="clearfix">
 <blockquote>
   <p>Soldiers chart:<br>本図発行所（東京市京橋区宗十郎町十一番地）東京造画館<br> The publishing house of this image is Tokyo zōgakan (Tokyo-shi, Kyōbashi-ku, Sōjūrōchō, jūichiban-chi)</p>
 <p>Commoners chart:<br>本図発行所（東京市京橋区出雲町一番地）東京造画館<br>The publishing house of this image is Tokyo zōgakan (Tokyo-shi, Kyōbashi-ku, Izumochō, ichiban-chi)</p>
@@ -66,7 +67,7 @@ Date of Issue: August 25, 1900 (Meiji 33)</p>
 
 <p>Our team originally requested these charts due to a cataloging notation that stated <b>“Depicts military costume of the Meiji period.  Ninety-five figures (mostly male) wearing regional costumes. The top row are Ainu, some of figures in the bottom row wear European style military dress.  Text at side of each figure.”</b> Upon investigation with Kate Anderson of the Fowler Museum, we found that the collections contained not only the chart of soldiers (which did not include depictions of Ainu) but also the chart of commoners. This discovery reaffirmed the importance of revisiting potentially dated collections information and bringing our domain knowledge to the investigation of these items. In all likelihood, whoever provided the original collections notes identified the top row of the soldiers chart as containing Ainu purely on the basis of the hairiness of the individuals (a <a href="/objects1/kumamatsuri/">common descriptive and visual trope</a>) and their accompanying bows and arrows (Fig. 4).</p><br>
 <figure class="article-image center w-75">
-  <img src="/assets/images/meiji-hairy-top-row.png" alt="ADD ALT TEXT HERE" />
+  <img src="/assets/images/meiji-hairy-top-row.png" alt="An illustration of six men who are variously beared and carry weapons." />
   <figcaption class="image-caption">Fig. 4. The top row of figures, displaying beards and weaponry, including arrows. Tsukamoto Iwasaburō, <em>Kōchō bujin fūzoku enkaku zenzu</em> (detail).
 </figcaption>
 </figure>
@@ -79,11 +80,11 @@ Date of Issue: August 25, 1900 (Meiji 33)</p>
 <div class="clearfix">
 <div class="comparison-row">
 <figure class="article-image center w-40">
-  <img src="/assets/images/meiji-ainu.png" alt="ADD ALT TEXT HERE" />
+  <img src="/assets/images/meiji-ainu.png" alt="An illustration of an Ainu man wearing an attush robe with a light brown main color and dark bluish black patterns on the edges of the sleeve and hems that have white geometric designs." />
   <figcaption class="image-caption">Fig 5. Ainu figure. Tsukamoto Iwasaburō, <em>Kōchō shonin fūzoku enkaku zenzu</em> (detail).</figcaption>
 </figure>
 <figure class="article-image center w-40">
-    <img src="/assets/images/meiji-attush.png" alt="ADD ALT TEXT HERE" />
+    <img src="/assets/images/meiji-attush.png" alt="A photo of an Ainu attush robe with a light brown main color and dark bluish black patterns on the edges of the sleeve and hems that have white geometric designs." />
   <figcaption class="image-caption">Fig 6. <a href="https://www.metmuseum.org/art/collection/search/51082" target="_blank"><em>Ainu costume</em></a>, 19th century, elm-bark fiber with appliqué of indigo-dyed tabby (atsushi), 135.9 cm (neck to hem); 130.8 cm (sleeve to sleeve). The Met Museum (1984.103).</figcaption>
 </figure>
 </div>
@@ -92,7 +93,7 @@ Date of Issue: August 25, 1900 (Meiji 33)</p>
 <p>The Ainu man is depicted with darker skin than the Japanese figures and a large, very full beard. Note the distinct difference between the facial features and skin tone presented in comparison to the Japanese <em>ezōshi</em> (picture book) seller next to him. The Ainu man wears clothing with traditional Ainu embroidered designs (an <em>attush</em> アットゥㇱ robe made of traditional elm bark cloth) (Fig. 6). His shoes, which have a seam running up the center, look similar to patterns of fishskin boots from the nineteenth century.<span class="footnote-ref"><sup>5</sup><span class="footnote-popover">Chisato O. Dubreuil, “Ainu Art: The Beginnings of Tradition,” in <em>Ainu: Spirit of a Northern People</em>, ed. Fitzhugh William W. and Chisato O. Dubreuil, eds. (Arctic Studies Center, National Museum of Natural History, 1999): 289–291.</span></span> At his hip appears to be a knife or short sword  in a holder, and he has a large fish slung over his shoulder. The illustration conforms with what many Japanese likely understood about the Ainu while echoing stereotypical images of dark skinned, hairy individuals; notably here the illustration of the bearded Ainu has his facial hair nearly overwhelming his entire face.</p>
 
 <figure class="article-image left">
-  <img src="/assets/images/meiji-korpokkur.png" alt="ADD ALT TEXT HERE" />
+  <img src="/assets/images/meiji-korpokkur.png" alt="Illustration of two men standing side by side. The one on the left has white hair and a receding hairline and wears what looks like goggles. He is leaning on a long-handled tool that looks like a hoe and wears clothing vaguely inspired by Ainu designs. On his right is a middle-aged man with hair tied up in a small bun who wears more simple clothing." />
   <figcaption class="image-caption">Fig. 7. Pair of Korpokkur people. Tsukamoto Iwasaburō, <em>Kōchō shonin fūzoku enkaku zenzu</em> (detail).</figcaption>
 </figure>
 <p>One more interesting find can be seen in the upper right-hand corner of the commoner chart. Two figures stand side by side and are labeled “Prehistoric Korpokkur People (<em>taiko Kuropokkurujin</em> 太古クロポックル人).” (Fig. 7) Sometimes romanized as Koropokkuru (コㇿポックㇽ in Ainu, クロポックル in Japanese), Korobokkuru, Koro-pok-kuru, or other variations, these were supposed a kind of little person who may have appeared in Ainu folklore.</p> 

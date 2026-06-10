@@ -16,7 +16,7 @@ header_image: /assets/images/header1.png
 
 <div class="clearfix">
 <figure class="article-image center w-75">
-  <img src="/assets/images/ikupasuy-wellcome.png" alt="ADD ALT TEXT HERE" />
+  <img src="/assets/images/ikupasuy-wellcome.png" alt="A provenance record of typed text that says 12.939 [1936] KWV X65-11996 MOUSTACHE LIFTER. Slat of wood, light colour, decorated with incised carving. Used for raising moustache when drinking from bowl. 35.8 x 3.2 cm. Ainu, Yezo, Japan. 16.815 [R]" />
   <figcaption class="image-caption">Fig. 1. Provenance record for <em>ikupasuy</em> X65.11996 labeling it as a moustache lifter. Image courtesy of the Fowler Museum at UCLA.</figcaption>
 </figure>
 </div>
@@ -25,7 +25,7 @@ header_image: /assets/images/header1.png
 <p>The bulk of the Fowler’s Ainu objects can be traced back to the UCLA Anthropology Department, though from whom they were originally provided remains unknown. We have two records (Figs. 2 & 3) from the Fowler Museum that provide some insights. The first (Fig. 2) is a record of transfer, from 1989 recording a transfer in 1965 from the UCLA Anthropology Department to the UCLA Museum of Cultural History (Fowler). According to our Fowler Museum contacts, around this time the university was making an effort to centralize their collections, which helps explain the movement of the objects from a department home to the museum. The date “c. 1917” for the objects, which we cannot verify, appears in this record.</p>
 <div class="clearfix">
 <figure class="article-image center w-75">
-  <img src="/assets/images/Fowler-prov1.png" alt="ADD ALT TEXT HERE" />
+  <img src="/assets/images/Fowler-prov1.png" alt="A black and white text sheet of paper labeled 20 April 1989 Replacement RIO. It lists information on the transfer of items from the UCLA Anthropology Department in 1969 to the UCLA Museum of Cultural History, particularly the Ainu Collection, ca. 1917." />
   <figcaption class="image-caption">Fig. 2. Replacement RIO sheet, 1989. Courtesy of the Fowler Museum at UCLA.</figcaption>
 </figure>
 </div>
@@ -34,7 +34,7 @@ header_image: /assets/images/header1.png
 </div>
 <div class="clearfix">
 <figure class="article-image center w-75">
-  <img src="/assets/images/Fowler-prov2.png" alt="ADD ALT TEXT HERE" />
+  <img src="/assets/images/Fowler-prov2.png" alt="A handwritten spreadsheet recording Ainu items in sparse detail." />
   <figcaption class="image-caption">Fig. 3. Spreadsheet accompanying the transfer record. Courtesy of the Fowler Museum at UCLA.</figcaption>
 </figure>
 </div>

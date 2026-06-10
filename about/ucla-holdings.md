@@ -12,7 +12,7 @@ The Ainu-related collections at UCLA are spread across three different venues: t
 <div class="content-grid">
 
 <a class="content-card" href="https://docs.google.com/spreadsheets/d/130e23_PWmSRHjOjDqU4JnTOWZYXuLC5ulFxiVQG60NA/edit?usp=sharing" target="_blank">
-  <img src="/assets/images/holdings-yrl.png" alt="ALT TEXT HERE" />
+  <img src="/assets/images/holdings-yrl.png" alt="A photograph of a library building's front doors." />
   <div class="content-card-body">
     <h3>Charles E. Young Library & Special Collections</h3>
     <div class="card-body">
@@ -22,7 +22,7 @@ The Ainu-related collections at UCLA are spread across three different venues: t
 </a>
 
 <a class="content-card" href="https://docs.google.com/spreadsheets/d/1eFZ6CdnJ97a2YLsgZaNMqJyvMlDXKpBJcdTMMF-crB4/edit?usp=sharing" target="_blank">
-  <img src="/assets/images/holdings-fowler.png" alt="ALT TEXT HERE" />
+  <img src="/assets/images/holdings-fowler.png" alt="A photograph of a brick building." />
   <div class="content-card-body">
     <h3>The Fowler Museum at UCLA</h3>
     <div class="card-body">

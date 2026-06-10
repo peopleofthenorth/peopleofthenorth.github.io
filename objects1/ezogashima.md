@@ -11,7 +11,7 @@ header_image: /assets/images/header1.png
 <div class="clearfix">
 
 <figure class="article-image center w-75">
-  <img src="/assets/images/ezogashima1.png" alt="ADD ALT TEXT HERE" />
+  <img src="/assets/images/ezogashima1.png" alt="A Japanese holding box with a dark blue cover, in which sits several early modern manuscripts with slightly weathered covers." />
   <figcaption class="image-caption">Fig. 1. View of the four volumes of <em>Curious Views of Ezo</em> resting in its holding box. Hata Awagimaru 秦檍丸, <em>Curious Views of Ezo</em> (<em>Ezogashima kikan</em> 蝦夷島奇観), c. 1804–1918, 4 vols., color on paper manuscript, 28 cm × 20 cm. Charles E. Young Research Library, UCLA. </figcaption>
 </figure>
 </div>
@@ -32,7 +32,7 @@ header_image: /assets/images/header1.png
 <div class="clearfix">
 
 <figure class="article-image center w-75">
-  <img src="/assets/images/ezogashima-iyomante.png" alt="ADD ALT TEXT HERE" />
+  <img src="/assets/images/ezogashima-iyomante.png" alt="A painting of the Ainu iyomante ceremony with some text describing it in the top right. The image painted is of a group of Ainu people in traditional dress laying out offerings to a dead bear arranged on a mat, surrounded by objects such as ceremonial swords and millet cakes." />
   <figcaption class="image-caption">Fig. 2. The <em>iyomante</em> ritual, as depicted in volume 2 of <em>Curious Views of Ezo</em>. </figcaption>
 </figure>
 </div>
@@ -91,7 +91,7 @@ header_image: /assets/images/header1.png
 <div class="clearfix">
 <p>The scene below from <em>Curious Views of Ezo</em> depicts trade between Ainu and Japanese, possibly the <em>uimam</em> ウイマム (referred as <em>omemie</em> お目見え by Japanese) or <em>umsa</em>/<em>omusha</em> オムシャ, rituals in which Ainu representatives visited the Matsumae lord to pay respects and show submission. In return, Ainu would receive goods that, while often considered less valuable by the Japanese, were often prized in or relied on by Ainu communities, such as rice, tobacco, swords, and other items that could not be produced by the Ainu themselves.<span class="footnote-ref"><sup>5</sup><span class="footnote-popover">David Howell, <em>Geographies of Identity in Nineteenth-Century Japan</em> (University of California Press, 2005), 119–121.</span></span></p>
 <figure class="article-image center w-75">
-  <img src="/assets/images/ezogashima-meeting.png" alt="ADD ALT TEXT HERE" />
+  <img src="/assets/images/ezogashima-meeting.png" alt="A painting of two Ainu figures kneeling before two Japanese men sitting on a veranda. There is another Japanese attendant sitting to the side of the Ainu, and in front of them are trade offerings, including a sea otter." />
   <figcaption class="image-caption">Fig. 3. Two Ainu meeting with Japanese, as seen in volume 3 of <em>Curious Views of Ezo</em>. </figcaption>
 </figure>
 </div>

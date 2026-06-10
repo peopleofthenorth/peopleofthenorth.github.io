@@ -9,13 +9,11 @@ header_image: /assets/images/header1.png
 
 <div class="clearfix">
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus luctus, lectus at varius ultrices, turpis sem cursus libero, vel suscipit risus nisl vitae lorem. Sed posuere mi at sapien faucibus, nec pellentesque neque vulputate. Mauris sit amet luctus ipsum. Curabitur euismod nunc vel mauris dictum, vitae tristique neque interdum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
-<div class="intro-divider"></div>
 <div class="team-list">
 
   <div class="team-card">
     <div class="team-card-image">
-      <img src="/assets/images/team-curtis.png" style="object-position: center center;" alt="Name of team member" />
+      <img src="/assets/images/team-curtis.png" style="object-position: center center;" alt="A white woman with reddish blonde hair smiling. She is sitting in a Japanese tea house." />
     </div>
     <div class="team-card-body">
       <h3>Paula R. Curtis</h3>
@@ -26,7 +24,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus luctus, lectus 
 
   <div class="team-card">
     <div class="team-card-image">
-      <img src="/assets/images/team-kong.png" style="object-position: center center;" alt="Name of team member" />
+      <img src="/assets/images/team-kong.png" style="object-position: center center;" alt="A Black Asian woman in makeup with a nose ring. Her dark hair has light tips and she is wearing a black shirt with sparkly designs. Her expression is neutral." />
     </div>
     <div class="team-card-body">
       <h3>Ziyi Kong</h3>
@@ -37,7 +35,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus luctus, lectus 
 
   <div class="team-card">
     <div class="team-card-image">
-      <img src="/assets/images/team-piao.png" style="object-position: center center;" alt="Name of team member" />
+      <img src="/assets/images/team-piao.png" style="object-position: center center;" alt="An Asian man wearing glasses with a neutral expression." />
     </div>
     <div class="team-card-body">
       <h3>Shengxi Piao</h3>
@@ -48,7 +46,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus luctus, lectus 
 
   <div class="team-card">
     <div class="team-card-image">
-      <img src="/assets/images/team-provencio.png" alt="Name of team member" style="object-position: center center;"/>
+      <img src="/assets/images/team-provencio.png" alt="A man smiling and wearing a baseball cap." style="object-position: center center;"/>
     </div>
     <div class="team-card-body">
       <h3>Ivan Provencio</h3>
@@ -59,7 +57,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus luctus, lectus 
 
   <div class="team-card">
     <div class="team-card-image">
-      <img src="/assets/images/team-youngs.png" alt="Name of team member" />
+      <img src="/assets/images/team-youngs.png" alt="A white woman with blonde hair smiling and standing in an outside hall. She has on a white dress and a blue sash that says UCLA" />
     </div>
     <div class="team-card-body">
       <h3>Haley Youngs</h3>

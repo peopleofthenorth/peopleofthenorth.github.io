@@ -14,7 +14,7 @@ header_image: /assets/images/header1.png
 <div class="clearfix">
 
 <figure class="article-image center w-75">
-  <img src="/assets/images/chopsticks1.png" alt="ADD ALT TEXT HERE" />
+  <img src="/assets/images/chopsticks1.png" alt="A long horizontal cardboard box with a red label and Japanese writing. Below it is a pair of carved chopsticks with a little carved bell shape on the end." />
   <figcaption class="image-caption">Fig. 1 <em>Chopsticks and box</em>, carved wood, 1 cm × 23.5 cm × 0.9 cm; D: 0.9 cm. Fowler Museum at UCLA (X91.2133A, X91.2133B). Photograph by Don Cole.</figcaption>
 </figure>
 </div>
@@ -24,7 +24,7 @@ header_image: /assets/images/header1.png
 <p>The chopsticks come with their original packaging: a light-colored wooden box with a slightly peeling orange adhesive label. The label displays the text “Ainu Folk Craft” (<em>Ainu mingeihin</em> アイヌ民芸品) in a large, stylized font in the middle, and on either sides in a smaller fonts “Hokkaido Folk Craft” (<em>Hokkaidō mingei</em> 北海道民芸) and “Ainu Folk Craft Association” (<em>Ainu mingei kyōkai</em> アイヌ民芸).</p>
 
 <figure class="article-image left w-40">
-  <img src="/assets/images/chopsticks2.png" width="100%" alt="ADD ALT TEXT HERE" />
+  <img src="/assets/images/chopsticks2.png" width="100%" alt="A closeup of the carved ends of the wooden chopsticks and the tiny bell shapes attached." />
   <figcaption class="image-caption">Fig. 2. Closeup of the ends of each chopstick.</figcaption>
 </figure>
 

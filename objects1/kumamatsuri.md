@@ -10,7 +10,7 @@ header_image: /assets/images/header1.png
 
 <div class="clearfix">
 <figure class="article-image right w-50">
-  <img src="/assets/images/kumamatsuri-scroll-whole.png" alt="ADD ALT TEXT HERE" />
+  <img src="/assets/images/kumamatsuri-scroll-whole.png" alt="A compilation of screencaps of a Japanese early modern scroll, set into six segments stacked on top of each other." />
   <figcaption class="image-caption">Fig. 1. Kodama Sadayoshi 小玉貞良, <em>Depictions of the Ezo Bear Festival and the Customs of the People</em> (<em>Ezo kumamatsuri narabini jinmin fūzoku zue</em> 蝦夷熊祭並人民風俗図絵), Kansei 寛政 10 [1798], handscroll on paper with color, 27 cm × 1330 cm. Charles E. Young Research Library; Richard C. Rudolph East Asian Library, UCLA.</figcaption>
 </figure>
 
@@ -24,7 +24,7 @@ header_image: /assets/images/header1.png
 </div>
 <div class="clearfix">
 <figure class="article-image left w-40">
-  <img src="/assets/images/kumamatsuri-woman2.png" alt="ADD ALT TEXT HERE" />
+  <img src="/assets/images/kumamatsuri-woman2.png" alt="A painting of an Ainu woman wearing yellow robes sitting on the ground holding a baby bear. There is a child behind her pointing at something she is looking at." />
   <figcaption class="image-caption">Fig. 2. A woman and child in <em>Depictions of the Ezo Bear Festival and the Customs of the People</em>. The woman is caring for a bear being raised in captivity in the village.</figcaption>
 </figure>
 <p>Kodama puts great detail into textiles; clothing of each Ainu person not only has unique designs and varieties of color but also a sense of texture. Throughout the scroll we find many variations on patterns, accessories, and even the way they are worn. Though many black and white or monochrome postcards of Ainu communities from the nineteenth and early twentieth centuries create a sense of a past world in bland or sepia tones, in this scroll we see vivid uses red, yellow, blue, white, green, orange, and pink throughout, providing a window into the vibrant aesthetics and bold patterns in Ainu clothing. Even in depictions where some of the clothing seems at a glance to be plain, when viewed closely, Kodama has placed subtle designs on them. He also includes small accessories or items that add richness to the detail of Ainu life.</p>
@@ -33,18 +33,18 @@ header_image: /assets/images/header1.png
 <div class="clearfix">
 <div class="comparison-row">
 <figure class="article-image center w-40">
-  <img src="/assets/images/kumamatsuri-tobacco.png" alt="ADD ALT TEXT HERE" />
+  <img src="/assets/images/kumamatsuri-tobacco.png" alt="A painting of an Ainu man sitting in a boat smoking a tobacco pipe. He has a robe that appears to be fur and above him are cartouches of Japanese explanatory text." />
   <figcaption class="image-caption">Fig. 3. A man in a boat smoking a tobacco pipe in <em>Depictions of the Ezo Bear Festival and the Customs of the People</em>.</figcaption>
 </figure>
 <figure class="article-image center w-40">
-    <img src="/assets/images/kumamatsuri-pelt.png" alt="ADD ALT TEXT HERE" />
+    <img src="/assets/images/kumamatsuri-pelt.png" alt="A painting of an Ainu man sitting on a rock fishing. He wears a yellow robe with leopard print fur." />
   <figcaption class="image-caption">Fig. 4. A man fishing in <em>Depictions of the Ezo Bear Festival and the Customs of the People</em>.</figcaption>
 </figure>
 </div>
 
 <div class="clearfix">
-<figure class="article-image right w-40">
-  <img src="/assets/images/kumamatsuri-women.png" alt="ADD ALT TEXT HERE" />
+<figure class="article-image right w-50">
+  <img src="/assets/images/kumamatsuri-women.png" alt="A painting of two Japanese women walking with bundles of wood on their backs. One of them in a purple robe is carrying an axe and the other in a yellow robe has an axe tucked into the bundle on her back." />
   <figcaption class="image-caption">Fig. 5. Women carrying stacks of chopped wood in <em>Depictions of the Ezo Bear Festival and the Customs of the People</em></figcaption>
 </figure>
 <p>We find many other candid representations of Ainu life in the scroll, such as women returning from chopping and gathering wood while engaged in a conversation (Fig. 5), one holding an axe in her hand and the other with an axe tucked in the stack of wood on her back. In his records of living with the Ainu in the late nineteenth century, missionary <a href="https://en.wikipedia.org/wiki/John_Batchelor_(missionary)" target="_blank">John Batchelor</a> (1854–1944) wrote of this task:</p>
@@ -52,23 +52,26 @@ header_image: /assets/images/header1.png
 </div>
 
 <div class="clearfix">
-<figure class="article-image left w-50">
-  <img src="/assets/images/kumamatsuri-play.png" alt="ADD ALT TEXT HERE" />
+<figure class="article-image center w-75">
+  <img src="/assets/images/kumamatsuri-play.png" alt="A painting of three male Ainu children in yellow patterned robes partially undone on top. They are in various states of activity as they throw spears through a small hoop." />
   <figcaption class="image-caption">Fig. 6. Children playing in <em>Depictions of the Ezo Bear Festival and the Customs of the People</em></figcaption>
 </figure>
+</div>
+
+<div class="clearfix">
 <p>Kodama also portrays young boys playing together by throwing a spear through a hoop (Fig. 6). In this game the hoop was tossed and children would aim to throw their spear through it while it rolled. Such games were not merely play, but enrichment to help develop necessary skills that would be useful later in life, given that the “Ainu’s main animal food source was the salmon, and spearing was an extremely important skill.”<span class="footnote-ref"><sup>8</sup><span class="footnote-popover">Dubreuil, 10.</span></span> The scroll also depicts hunting scenes of otter, which were highly prized for their pelts and traded both with the Japanese and Russians.<span class="footnote-ref"><sup>9</sup><span class="footnote-popover">Brett L. Walker, <em>The Conquest of Ainu Lands: Ecology and Culture in Japanese Expansion, 1590–1800</em> (University of California Press, 2001), 157–158.</span></span> Representations of otter hunting appear often in depictions of Ainu. The otter in our scroll appears less than enthused to be hunted (Fig. 7).</p>
 </div>
 
 <div class="clearfix">
 <figure class="article-image center w-75">
-  <img src="/assets/images/kumamatsuri-sea-otter.png" alt="ADD ALT TEXT HERE" />
+  <img src="/assets/images/kumamatsuri-sea-otter.png" alt="A painting of a sea otter swimming atop choppy waters. He looks mad." />
   <figcaption class="image-caption">Fig. 7. Angry otter in <em>Depictions of the Ezo Bear Festival and the Customs of the People</em></figcaption>
 </figure>
 </div>
 <br>
 <div class="clearfix">
 <figure class="article-image right w-40">
-  <img src="/assets/images/kumamatsuri-iyomante.png" alt="ADD ALT TEXT HERE" />
+  <img src="/assets/images/kumamatsuri-iyomante.png" alt="Two segments of a painting on top of one another. The top image shows four Ainu men pulling a black bear by ropes as it rears and bares its teeth. The bottom image shows about a dozen Ainu rolling a large log over the dead bear, with three people in the front of the log tugging ropes from the other side." />
   <figcaption class="image-caption">Fig. 8. Scenes from the <em>iyomante</em> in <em>Depictions of the Ezo Bear Festival and the Customs of the People</em></figcaption>
 </figure>
 <p>A central part of Kodama’s scroll is representations of the <em>iyomante</em> ceremony and activities leading up to it. He depicts the domestication of a young bear, believed to be a <em>kamuy</em> living in the human world, beginning with its care within the village (see the woman holding a baby bear in Figure 2). He then shows the next steps of its ritual killing and the community's celebration afterwards, with copious attention to preparing food and feasting.</p>
@@ -82,7 +85,7 @@ header_image: /assets/images/header1.png
 <p>The illustrations at the conclusion of the scroll (Fig. 9) shows Ainu representatives walking with Japanese figures toward Matsumae castle. They carry various items on their backs, including sea otter, which will likely be submitted to the lord as a form of ritual submission.<span class="footnote-ref"><sup>12</sup><span class="footnote-popover">David Howell, <em>Geographies of Identity in Nineteenth-Century Japan</em> (University of California Press, 2005), 119–121</span></span> For historical details on these exchanges, see our page on <a href="/objects1/ezogashima/"><em>Curious Views of Ezo.</em></a></p>
 
 <figure class="article-image center w-100">
-  <img src="/assets/images/kumamatsuri-scroll13.png" alt="ADD ALT TEXT HERE" />
+  <img src="/assets/images/kumamatsuri-scroll13.png" alt="A painting of a line of people walking. On the far right are two Japanese with sticks and swords, followed by two Ainu men carrying stacks of goods on their back. This is followed by an Ainu woman tugging a child and three Ainu men with ceremonial swords on their backs. At the front is a Japanese man in formal samurai outfit pointing beyond the frame." />
   <figcaption class="image-caption">Fig. 10. Ainu bringing trade items to the Japanese in <em>Depictions of the Ezo Bear Festival and the Customs of the People</em>.</figcaption>
 </figure>
 </div>
@@ -93,25 +96,25 @@ header_image: /assets/images/header1.png
 <div class="clearfix">
 
 <figure class="article-image center w-100">
-<img src="/assets/images/scroll-compare-hakodate-city-museum2.png" alt="ADD ALT TEXT HERE" /><figcaption class="image-caption">Fig. 11. This version is dated to 1797 from text at the end of the scroll. <a href="https://hakohaku-archives.c.fun.ac.jp/records/K-H13-0445" target="_blank"><em>Images of Customs of Ezo</em></a> (<em>Ezo fūzoku-e</em> 蝦夷風俗絵) (detail), Kansei 寛政 9 [1797], handscroll on paper with color, 26.5 cm × 1338.5 cm. Hakodate City Museum Digital Archives (K-H12-0045).</figcaption></figure>
+<img src="/assets/images/scroll-compare-hakodate-city-museum2.png" alt="A painting of two groups of Ainu men in various outfits pulling a black bear by ropes on either side of the bear, with eight on one side and four on the other. The bear is rearing and baring its teeth." /><figcaption class="image-caption">Fig. 11. This version is dated to 1797 from text at the end of the scroll. <a href="https://hakohaku-archives.c.fun.ac.jp/records/K-H13-0445" target="_blank"><em>Images of Customs of Ezo</em></a> (<em>Ezo fūzoku-e</em> 蝦夷風俗絵) (detail), Kansei 寛政 9 [1797], handscroll on paper with color, 26.5 cm × 1338.5 cm. Hakodate City Museum Digital Archives (K-H12-0045).</figcaption></figure>
 
 <figure class="article-image center w-100">
-<img src="/assets/images/scroll-compare-hakodate-city-museum.png" alt="ADD ALT TEXT HERE" /><figcaption class="image-caption">Fig. 12. The museum believes this scroll may be a copy of the one above. <a href="https://hakohaku-archives.c.fun.ac.jp/records/K-H13-0446" target="_blank"><em>Images of Ezo</em></a> (<em>Ezo-e</em> 蝦夷絵) (detail), handscroll on paper with color, 28.6 cm × 1373 cm. Hakodate City Museum Digital Archives (K-H12-0045).</figcaption></figure>
+<img src="/assets/images/scroll-compare-hakodate-city-museum.png" alt="A painting of two groups of Ainu men in various outfits pulling a black bear by ropes on either side of the bear, with eight on one side and four on the other. The bear is rearing and baring its teeth." /><figcaption class="image-caption">Fig. 12. The museum believes this scroll may be a copy of the one above. <a href="https://hakohaku-archives.c.fun.ac.jp/records/K-H13-0446" target="_blank"><em>Images of Ezo</em></a> (<em>Ezo-e</em> 蝦夷絵) (detail), handscroll on paper with color, 28.6 cm × 1373 cm. Hakodate City Museum Digital Archives (K-H12-0045).</figcaption></figure>
 
 <figure class="article-image center w-100">
-<img src="/assets/images/scroll-compare-ucla.png" alt="ADD ALT TEXT HERE" /><figcaption class="image-caption">Fig. 13. Kodama Sadayoshi 小玉貞良, <em>Depictions of the Ezo Bear Festival and the Customs of the People</em> (<em>Ezo kumamatsuri narabini jinmin fūzoku zue</em> 蝦夷熊祭並人民風俗図絵) (detail), Kansei 寛政 10 [1798], handscroll on paper with color, 27 cm × 1330 cm. Charles E. Young Research Library; Richard C. Rudolph East Asian Library, UCLA.</figcaption></figure>
+<img src="/assets/images/scroll-compare-ucla.png" alt="A painting of a group of four Ainu men in various outfits pulling a black bear by ropes to the left, with a woman observing in concern on the right. The bear is rearing and baring its teeth." /><figcaption class="image-caption">Fig. 13. Kodama Sadayoshi 小玉貞良, <em>Depictions of the Ezo Bear Festival and the Customs of the People</em> (<em>Ezo kumamatsuri narabini jinmin fūzoku zue</em> 蝦夷熊祭並人民風俗図絵) (detail), Kansei 寛政 10 [1798], handscroll on paper with color, 27 cm × 1330 cm. Charles E. Young Research Library; Richard C. Rudolph East Asian Library, UCLA.</figcaption></figure>
 
 <figure class="article-image center w-100">
-<img src="/assets/images/scroll-compare-hakodate-library.png" alt="ADD ALT TEXT HERE" /><figcaption class="image-caption">Fig. 14. This scroll indicates it was copied in Tenmei 3 (1783) and text was added to it in 1784. <a href="https://adeac.jp/hakodate-city/catalog/mp000150-200010" target="_blank"><em>Images of Local Customs of Ainu</em></a> (<em>Ezo no kuni fūzoku-e</em> 蝦夷国風図絵) (detail), 1783, handscroll on paper with color, 27 cm × 1783 cm. Hakodate Library (be001146).</figcaption></figure>
+<img src="/assets/images/scroll-compare-hakodate-library.png" alt="A painting of a group of four Ainu men in various outfits pulling a black bear by ropes to the left, with a woman observing in concern on the right. The bear is rearing and baring its teeth." /><figcaption class="image-caption">Fig. 14. This scroll indicates it was copied in Tenmei 3 (1783) and text was added to it in 1784. <a href="https://adeac.jp/hakodate-city/catalog/mp000150-200010" target="_blank"><em>Images of Local Customs of Ainu</em></a> (<em>Ezo no kuni fūzoku-e</em> 蝦夷国風図絵) (detail), 1783, handscroll on paper with color, 27 cm × 1783 cm. Hakodate Library (be001146).</figcaption></figure>
 
 <figure class="article-image center w-100">
-<img src="/assets/images/scroll-compare-hakodate-city-central-library.png" alt="ADD ALT TEXT HERE" /><figcaption class="image-caption">Fig. 15. <a href="https://archives.c.fun.ac.jp/scrollframes/be000803/0003" target="_blank"><em>Images of Local Customs of Ainu</em></a> (<em>Ezo no kuni fūzoku-e</em> 蝦夷国風図絵) (detail), handscroll on paper with color, 28 cm × 978 cm. Hakodate City Central Library (be000803-0003).</figcaption></figure>
+<img src="/assets/images/scroll-compare-brooklyn.png" alt="A painting of a group of four Ainu men in various outfits pulling a black bear by ropes to the left, with a woman observing in concern on the right. The bear is rearing and baring its teeth." /><figcaption class="image-caption">Fig. 15. <a href="https://www.brooklynmuseum.org/objects/6569" target="_blank"><em>Local Customs of Ainu</em></a> (detail), 19th century, handscroll on paper with color, 27 cm × 843.6 cm. Brooklyn Museum (12.688).</figcaption></figure>
 
 <figure class="article-image center w-100">
-<img src="/assets/images/scroll-compare-brooklyn.png" alt="ADD ALT TEXT HERE" /><figcaption class="image-caption">Fig. 16. <a href="https://www.brooklynmuseum.org/objects/6569" target="_blank"><em>Local Customs of Ainu</em></a> (detail), 19th century, handscroll on paper with color, 27 cm × 843.6 cm. Brooklyn Museum (12.688).</figcaption></figure>
+<img src="/assets/images/scroll-compare-hakodate-city-central-library.png" alt="A painting of a group of four Ainu men in various outfits pulling a black bear by ropes to the left, with a stack of sticks and logs in the background. The bear is rearing and baring its teeth." /><figcaption class="image-caption">Fig. 16. <a href="https://archives.c.fun.ac.jp/scrollframes/be000803/0003" target="_blank"><em>Images of Local Customs of Ainu</em></a> (<em>Ezo no kuni fūzoku-e</em> 蝦夷国風図絵) (detail), handscroll on paper with color, 28 cm × 978 cm. Hakodate City Central Library (be000803-0003).</figcaption></figure>
 
 <figure class="article-image center w-100">
-<img src="/assets/images/scroll-compare-hakodate-city-museum3.png" alt="ADD ALT TEXT HERE" /><figcaption class="image-caption">Fig. 17. <a href="https://hakohaku-archives.c.fun.ac.jp/records/H10-0051-45-040" target="_blank"><em>Images of Local Customs of Ainu</em></a> (<em>Ezo no kuni fūzoku-e</em> 蝦夷国風図絵) (detail), handscroll on paper with color, 17.3 cm × 623.5 cm. Hakodate City Museum Digital Archives (H10-0051-45-040).</figcaption></figure>
+<img src="/assets/images/scroll-compare-hakodate-city-museum3.png" alt="A painting of a group of four Ainu men in various outfits pulling a black bear by ropes to the left, with a stack of sticks and logs in the background. The bear is rearing and baring its teeth." /><figcaption class="image-caption">Fig. 17. <a href="https://hakohaku-archives.c.fun.ac.jp/records/H10-0051-45-040" target="_blank"><em>Images of Local Customs of Ainu</em></a> (<em>Ezo no kuni fūzoku-e</em> 蝦夷国風図絵) (detail), handscroll on paper with color, 17.3 cm × 623.5 cm. Hakodate City Museum Digital Archives (H10-0051-45-040).</figcaption></figure>
 
 </div>
 
