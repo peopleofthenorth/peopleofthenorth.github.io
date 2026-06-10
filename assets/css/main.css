@@ -185,6 +185,11 @@ ul { list-style: none; }
   padding: var(--section-gap) clamp(1.5rem, 5vw, 3rem);
 }
 
+html, body {
+  overflow-x: hidden;
+  touch-action: pan-y;
+}
+
 /* ============================================================
    INTRO TEXT SECTION
    ============================================================ */
