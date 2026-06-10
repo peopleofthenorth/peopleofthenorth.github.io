@@ -675,6 +675,24 @@ p.p-indent {
     -webkit-overflow-scrolling: touch;
   }
 
+  @media (max-width: 600px) {
+  .footnote-popover {
+    width: 240px;
+    max-width: 80vw;
+  }
+
+  .footnote-ref.pin-right .footnote-popover {
+    left: auto;
+    right: 0;
+    transform: none;
+  }
+
+  .footnote-ref.pin-left .footnote-popover {
+    left: 0;
+    right: auto;
+    transform: none;
+  }
+}
   .nav-link {
     padding: 0 0.9rem;
     white-space: nowrap;
@@ -1095,6 +1113,8 @@ p.p-indent {
   letter-spacing: 0.14em;
   text-transform: uppercase;
   color: var(--color-accent);
+  overflow: clip;
+  overflow-clip-margin: 0px;
 }
 
 .text-box-body {

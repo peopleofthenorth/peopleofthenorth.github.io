@@ -14,7 +14,8 @@
         // Check for overflow after making it visible
         var popover = ref.querySelector('.footnote-popover');
         var rect = popover.getBoundingClientRect();
-
+        var viewWidth = document.documentElement.clientWidth;
+        
         if (rect.right > window.innerWidth) {
           ref.classList.add('pin-right');
         } else if (rect.left < 0) {
