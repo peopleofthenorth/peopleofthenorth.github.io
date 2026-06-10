@@ -48,7 +48,7 @@ These pages introduce how the UCLA collections featured in this project came to 
   <img src="/assets/images/about-team.png" alt="ALT TEXT HERE" />
   <div class="content-card-body">
     <h3>Team</h3>
-    <p>Learn more about the team behind this project</p>
+    <p>Learn more about the team behind this project.</p>
   </div>
 </a>
 

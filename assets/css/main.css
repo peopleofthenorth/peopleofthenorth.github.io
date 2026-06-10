@@ -1118,9 +1118,9 @@ p.p-indent {
 .text-box-label img {
   height: 1em;
   width: auto;
+  max-width: none;
   display: block;
   flex-shrink: 0;
-  min-width: fit-content;
 }
 .text-box-icons {
   display: flex;
@@ -1133,6 +1133,7 @@ p.p-indent {
 .text-box-icons img {
   height: 1em;
   width: auto;
+  max-width: none;
   display: block;
   flex-shrink: 0;
 }
