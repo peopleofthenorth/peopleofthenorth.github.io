@@ -15,7 +15,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus luctus, lectus 
 
   <div class="team-card">
     <div class="team-card-image">
-      <img src="/assets/images/team-curtis.png" alt="Name of team member" />
+      <img src="/assets/images/team-curtis.png" style="object-position: center center;" alt="Name of team member" />
     </div>
     <div class="team-card-body">
       <h3>Paula R. Curtis</h3>
@@ -26,7 +26,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus luctus, lectus 
 
   <div class="team-card">
     <div class="team-card-image">
-      <img src="/assets/images/team-kong.png" alt="Name of team member" />
+      <img src="/assets/images/team-kong.png" style="object-position: center center;" alt="Name of team member" />
     </div>
     <div class="team-card-body">
       <h3>Ziyi Kong</h3>
@@ -37,7 +37,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus luctus, lectus 
 
   <div class="team-card">
     <div class="team-card-image">
-      <img src="/assets/images/team-piao.png" alt="Name of team member" />
+      <img src="/assets/images/team-piao.png" style="object-position: center center;" alt="Name of team member" />
     </div>
     <div class="team-card-body">
       <h3>Shengxi Piao</h3>
@@ -48,7 +48,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus luctus, lectus 
 
   <div class="team-card">
     <div class="team-card-image">
-      <img src="/assets/images/team-provencio.png" alt="Name of team member" />
+      <img src="/assets/images/team-provencio.png" alt="Name of team member" style="object-position: center center;"/>
     </div>
     <div class="team-card-body">
       <h3>Ivan Provencio</h3>
