@@ -18,7 +18,7 @@ A Complete Illustration of the History of Commoners' Customs in the Japanese Emp
 </figure>
 <figure class="article-image center w-40">
     <img src="/assets/images/meiji-commoners.png" alt="A long chart in brown and red hues with text at the top in Japanese and a series of dozens of illustrations of people throughout the chart." />
-  <figcaption class="image-caption">Fig. 2. Tsukamoto Iwasaburō, <em>Kōchō shonin fūzoku enkaku zenzu</em>, 1900, lithograph, ink on paper, 148.50 cm × 53.50 cm. Fowler Museum at UCLA; Gift of Catherine E. Tierney & P. Lennox Tierney (X91.1925A).</figcaption>
+  <figcaption class="image-caption">Fig. 2. Tsukamoto Iwasaburō, <em>Kōchō shonin fūzoku enkaku zenzu</em>, 1900, lithograph, ink on paper, 148.50 cm × 53.50 cm. Fowler Museum at UCLA; Gift of Catherine E. Tierney & P. Lennox Tierney (X91.1925B).</figcaption>
 </figure>
 </div>
 
